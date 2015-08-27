@@ -1,11 +1,11 @@
 # HotWheels Wiki
 
-Bienvenido
+Integrantes
 
-Harold Murcia - Lider del equipo
-Diego Agudelo - Lider Técnico
-Wilmar Fuquen - Lider de Arquitectura
-David Jimenez - Desarrollador
-Guillermo Ferro - Desarrollador
+- Harold Murcia - Lider del equipo
+- Diego Agudelo - Lider Técnico
+- Wilmar Fuquen - Lider de Arquitectura
+- David Jimenez - Desarrollador
+- Guillermo Ferro - Desarrollador
 
-Para ver esta wiki ingrese a la siguiente url: http://miso4203-201520.github.io/wiki-HotWheels/
+Página Web de la wiki: http://miso4203-201520.github.io/wiki-HotWheels/
