@@ -8,20 +8,12 @@ categories: jekyll update
 <table class="waffle" cellspacing="0" cellpadding="0">
     <tbody>
         <tr style="height:20px;">
-            <th id="0R1" style="height: 20px;" class="row-headers-background row-header-shim">
-                <div class="row-header-wrapper" style="line-height: 20px;">2</div>
-            </th>
-            <td class="s3"></td>
             <td class="s4" dir="ltr" rowspan="3">Ciclo</td>
             <td class="s4" dir="ltr" colspan="2">Identificación de riesgos</td>
             <td class="s4" dir="ltr" colspan="7">Valoración de Riesgos</td>
             <td class="s4" dir="ltr" colspan="2">Plan de manejo</td>
         </tr>
         <tr style="height:28px;">
-            <th id="0R2" style="height: 28px;" class="row-headers-background row-header-shim">
-                <div class="row-header-wrapper" style="line-height: 28px;">3</div>
-            </th>
-            <td class="s3"></td>
             <td class="s4" dir="ltr" rowspan="2">Riesgo</td>
             <td class="s4" dir="ltr" rowspan="2">Consecuencias</td>
             <td class="s4" dir="ltr" colspan="3">Probabilidad</td>
@@ -31,10 +23,6 @@ categories: jekyll update
             <td class="s4" dir="ltr" rowspan="2">Acciones de mitigación</td>
         </tr>
         <tr style="height:28px;">
-            <th id="0R3" style="height: 28px;" class="row-headers-background row-header-shim">
-                <div class="row-header-wrapper" style="line-height: 28px;">4</div>
-            </th>
-            <td class="s3"></td>
             <td class="s4" dir="ltr">Medición</td>
             <td class="s4" dir="ltr">%</td>
             <td class="s4" dir="ltr">Resultado</td>
@@ -43,10 +31,6 @@ categories: jekyll update
             <td class="s4" dir="ltr">Resultado</td>
         </tr>
         <tr style="height:20px;">
-            <th id="0R4" style="height: 20px;" class="row-headers-background row-header-shim">
-                <div class="row-header-wrapper" style="line-height: 20px;">5</div>
-            </th>
-            <td class="s3"></td>
             <td class="s4" dir="ltr" rowspan="3">1</td>
             <td class="s5" dir="ltr">No tener un entendimiento suficiente sobre la arquitectura y las tecnologías del proyecto.</td>
             <td class="s5" dir="ltr">Retrasos, mala calidad en lo que se entrega y poca motivación del equipo.</td>
@@ -62,9 +46,6 @@ categories: jekyll update
             <td class="s5"></td>
         </tr>
         <tr style="height:20px;">
-            <th id="0R5" style="height: 20px;" class="row-headers-background row-header-shim">
-                <div class="row-header-wrapper" style="line-height: 20px;">6</div>
-            </th>
             <td class="s3"></td>
             <td class="s5" dir="ltr">No entender los requerimientos.</td>
             <td class="s5" dir="ltr">Desarrollar una aplicación de mala calidad porque no va a satisfacer los requerimientos del cliente y todo el trabajo se perderá.</td>
@@ -81,9 +62,6 @@ categories: jekyll update
             <td class="s5"></td>
         </tr>
         <tr style="height:20px;">
-            <th id="0R6" style="height: 20px;" class="row-headers-background row-header-shim">
-                <div class="row-header-wrapper" style="line-height: 20px;">7</div>
-            </th>
             <td class="s3"></td>
             <td class="s5" dir="ltr">No trabajar de manera organizada y coordinada.</td>
             <td class="s5" dir="ltr">El proyecto no cumplirá los requerimientos, tendrá retrasos importantes, mala calidad y el equipo no estará motivado.</td>
