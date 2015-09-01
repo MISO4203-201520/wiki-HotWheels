@@ -8,24 +8,6 @@ categories: jekyll update
 <table class="waffle" cellspacing="0" cellpadding="0">
     <tbody>
         <tr style="height:20px;">
-            <th id="0R0" style="height: 20px;" class="row-headers-background row-header-shim">
-                <div class="row-header-wrapper" style="line-height: 20px;">1</div>
-            </th>
-            <td class="s1"></td>
-            <td class="s2"></td>
-            <td class="s2"></td>
-            <td class="s2"></td>
-            <td class="s2"></td>
-            <td class="s2"></td>
-            <td class="s2"></td>
-            <td class="s2"></td>
-            <td class="s2"></td>
-            <td class="s2"></td>
-            <td class="s2"></td>
-            <td class="s2"></td>
-            <td class="s2"></td>
-        </tr>
-        <tr style="height:20px;">
             <th id="0R1" style="height: 20px;" class="row-headers-background row-header-shim">
                 <div class="row-header-wrapper" style="line-height: 20px;">2</div>
             </th>
