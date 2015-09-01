@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Integrantes"
-date:   2015-08-31 21:46:29
+title:  "Administración de Riesgos"
+date:   2015-08-31 00:00:03
 categories: jekyll update
 ---
 
