@@ -6,24 +6,6 @@ categories: jekyll update
 ---
 
 <table class="waffle" cellspacing="0" cellpadding="0">
-    <thead>
-        <tr>
-            <th class="row-header freezebar-origin-ltr header-shim row-header-shim"></th>
-            <th id="0C0" style="width:25px" class="header-shim"></th>
-            <th id="0C1" style="width:70px" class="header-shim"></th>
-            <th id="0C2" style="width:287px" class="header-shim"></th>
-            <th id="0C3" style="width:285px" class="header-shim"></th>
-            <th id="0C4" style="width:271px" class="header-shim"></th>
-            <th id="0C5" style="width:60px" class="header-shim"></th>
-            <th id="0C6" style="width:100px" class="header-shim"></th>
-            <th id="0C7" style="width:161px" class="header-shim"></th>
-            <th id="0C8" style="width:56px" class="header-shim"></th>
-            <th id="0C9" style="width:100px" class="header-shim"></th>
-            <th id="0C10" style="width:100px" class="header-shim"></th>
-            <th id="0C11" style="width:106px" class="header-shim"></th>
-            <th id="0C12" style="width:306px" class="header-shim"></th>
-        </tr>
-    </thead>
     <tbody>
         <tr style="height:20px;">
             <th id="0R0" style="height: 20px;" class="row-headers-background row-header-shim">
