@@ -5,8 +5,8 @@ date:   2015-08-31 00:00:05
 categories: jekyll update
 ---
 
-|-----|--------------|------------|------------|---------|
-|CICLO|REQUERIMIENTOS|FECHA INICIO|FECHA ENTRGA| ALCANCE |
+
+|**CICLO**|**REQUERIMIENTOS**|**FECHA INICIO**|**FECHA ENTREGA**| **ALCANCE** |
 |-----|--------------|------------|------------|---------|
 |C1|R1 R2 R3 R4 R5 R6|25/8/2015|8/9/2015||
 |-----|--------------|------------|------------|---------|
