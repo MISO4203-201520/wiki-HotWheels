@@ -12,7 +12,7 @@ categories: jekyll update
 - Guillermo Ferro - Desarrollador
 
 
-Roles y Responsabilidades
+# Roles y Responsabilidades
 
 
 **Líder** - Harold Murcia, velar por el enfoque y unión del grupo, solucionar rápidamente los impedimentos que se presenten y que bloqueen la ejecución de otras tareas, fomentar la aplicación de la metodología de desarrollo, acordar compromisos, propiciar y moderar reuniones del grupo y finalmente velar por el cumplimiento de las tareas y objetivos del proyecto.
