@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Alcance Globak"
+title:  "Alcance Global"
 date:   2015-08-31 00:00:05
 categories: jekyll update
 ---
