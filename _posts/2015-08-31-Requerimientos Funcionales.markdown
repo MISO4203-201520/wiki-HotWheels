@@ -28,21 +28,35 @@ R6. El sistema debe ofrecer al proveedor la posibilidad de agregar un descuento 
 Otros ciclos
 
 R7. Disponer de una galería virtual de proveedores de carros usados, que admita criterios de clasificación (modelo, marca, ciudad de venta, rango de precios, etc.). C3
+
 R8. Contar con un sistema de búsqueda que permita localizar de manera simple las distintas ofertas. 
-R9. Brindar herramientas de envío de mensajes internos (entre proveedores de carros, entre clientes o entre ambos). 
+
+R9. Brindar herramientas de envío de mensajes internos (entre proveedores de carros, entre clientes o entre ambos).
+
 R10. Foros de discusión para los usuarios de la plataforma (estos deben poder ser almacenados y posteriormente consultados por los clientes involucrados en la discusión).
+
 R11. Soportar servicios de comercio electrónico, manejo de transacciones, con carritos de compras. Validación de las transacciones. El MP debe ser capaz de determinar en cualquier momento el estado de cualquier transacción de compra/venta del sistema.
+
 R12. Registrase en el sitio web al momento de efectuar la compra de un producto
+
 R13. Revisar histórico de transacciones efectuadas sobre la plataforma en un periodo de tiempo determinado
+
 R14. Calificar el servicio adquirido(s) luego de haber hecho uso del mismo dentro de un periodo de tiempo razonable
-// Realizar la compra de uno o más productos [DONE R1]
- // Realizar una pregunta a un proveedor particular [DONE R2]
+
 R15. Buscar productos por varios criterios [Rel R7 Y R8]
+
 R18. Consultar el Estado de un pedido
+
 R19. Registrar/actualizar un proveedor de carros en el sitio web
+
 R20. Registrar/actualizar un producto
+
 R21. Publicar ofertas de los productos (Preguntar si es el mismo R6)
+
 R22. Revisar históricos de ventas [Rel R13]
+
 R23. Consultar las calificaciones de los compradores
+
 R24. Responder preguntas de usuarios compradores
+
 R25. Actualizar el estado del pedido de un cliente
