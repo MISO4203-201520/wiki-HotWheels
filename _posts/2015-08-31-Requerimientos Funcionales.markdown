@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Requerimientos Funcionales"
+title:  "Requerimientos"
 date:   2015-08-31 00:00:04
 categories: jekyll update
 ---
