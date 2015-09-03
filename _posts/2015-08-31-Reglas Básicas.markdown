@@ -2,7 +2,7 @@
 layout: default
 title:  "Reglas Básicas"
 date:   2015-08-31 00:00:01
-categories: jekyll update
+categories: jposts
 ---
 
 # Sobre la dedicación y el compromiso

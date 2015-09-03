@@ -2,7 +2,7 @@
 layout: default
 title:  "Administración de Riesgos"
 date:   2015-08-31 00:00:03
-categories: jekyll update
+categories: posts
 ---
 
 ##**Matriz de Riesgos**

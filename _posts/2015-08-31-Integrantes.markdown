@@ -2,9 +2,10 @@
 layout: default
 title:  "Integrantes"
 date:   2015-08-31 00:00:00
-categories: jekyll update
+categories: home
 ---
-#**Integrantes**
+
+##**Integrantes**
 
 - Harold Murcia - Lider del equipo
 - Diego Agudelo - Lider Técnico

@@ -2,7 +2,7 @@
 layout: default
 title:  "Alcance Global"
 date:   2015-08-31 00:00:05
-categories: jekyll update
+categories: posts
 ---
 
 

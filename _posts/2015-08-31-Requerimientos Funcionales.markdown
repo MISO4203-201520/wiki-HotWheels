@@ -2,7 +2,7 @@
 layout: default
 title:  "Requerimientos"
 date:   2015-08-31 00:00:04
-categories: jekyll update
+categories: posts
 ---
 
 #Requerimientos existentes
