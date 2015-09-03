@@ -9,14 +9,14 @@ categories: jekyll update
 
 ![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/Tabla 1.png)
 
-##Probabilidad Vs Impacto
+##Convenciones
 
 ![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/Tabla 2.png)
 
-##Convenciones
+##Glosario
 
 ![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/Tabla 3.png)
 
-##Glosario
+##Matriz de Conocimiento
 
 ![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/Tabla 4.png)
