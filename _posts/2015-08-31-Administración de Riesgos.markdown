@@ -1,22 +1,22 @@
 ---
-layout: page
+layout: default
 title:  "Administración de Riesgos"
 date:   2015-08-31 00:00:03
 categories: jekyll update
 ---
 
-#Matriz de Riesgos
+##**Matriz de Riesgos**
 
 ![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/Tabla 1.png)
 
-##Convenciones
+##**Convenciones**
 
 ![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/Tabla 2.png)
 
-##Glosario
+##**Glosario**
 
 ![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/Tabla 3.png)
 
-##Matriz de Conocimiento
+##**Matriz de Conocimiento**
 
 ![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/Tabla 4.png)

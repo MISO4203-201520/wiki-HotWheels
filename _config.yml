@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Proyecto desarrollado para el curso de Gestión de proyectos MISO-4203.
 baseurl: "/wiki-HotWheels" # the subpath of your site, e.g. /blog/
 url: "http://miso4203-201520.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: diegodham
+github_username:  carmudgeon
 
 # Build settings
 markdown: kramdown
