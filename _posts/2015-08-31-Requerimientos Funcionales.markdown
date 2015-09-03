@@ -5,6 +5,8 @@ date:   2015-08-31 00:00:04
 categories: posts
 ---
 
+#Requerimientos
+
 #Requerimientos existentes
 
 **ER1.** El sistema debe ofrecer a los usuarios la opción de registrar sus datos personales (usuario, password, nombre, correo, rol) para poder crear una nueva cuenta en la plataforma. El sistema debe permitir seleccionar el rol (provider o user) con el que se quiere crear la cuenta . Adicionalmente la plataforma debe pedir al usuario la confirmación de su cuenta de correo antes de poder autenticarse por primera vez.

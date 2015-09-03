@@ -5,6 +5,8 @@ date:   2015-08-31 00:00:01
 categories: posts
 ---
 
+# Reglas Básicas
+
 # Sobre la dedicación y el compromiso
 
 Dentro de los primeros puntos que se debatió con el grupo y producto de la experiencia de trabajo en grupo en semestres anteriores, se propuso la necesidad de contar con una reunión semanal presencial en la que se discutan todos aquellos temas relevantes para el grupo, tales como: visión y misión del proyecto, cronograma de actividades, decisiones arquitecturales o funcionales, división de tareas y en general estrategia en el modo en que el grupo atacará cada sprint. La reunión quedó estipulada como indispensable para todos los miembros del grupo y quedó estipulada para los días sábado. 
