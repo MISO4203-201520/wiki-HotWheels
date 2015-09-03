@@ -8,9 +8,9 @@ layout: default
     {% assign sorted_posts = (site.posts | sort: 'date') %}
     {% assign post = sorted_posts.first %}
     {% assign content = post.content %}
-    {% include default.html %}
   </div>
 
+{{ content }}
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
