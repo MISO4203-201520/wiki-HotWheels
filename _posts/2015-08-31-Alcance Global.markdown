@@ -5,6 +5,7 @@ date:   2015-08-31 00:00:05
 categories: posts
 ---
 
+#Alcance Global
 
 |**CICLO**|**REQUERIMIENTOS**|**FECHA INICIO**|**FECHA ENTREGA**| **ALCANCE** |
 |-----|--------------|------------|------------|---------|
