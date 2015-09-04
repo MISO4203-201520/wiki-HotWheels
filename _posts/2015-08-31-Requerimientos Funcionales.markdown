@@ -27,7 +27,8 @@ categories: posts
 R3. El sistema debe ofrecer al usuario con el rol de administrador el servicio de ver los usuarios registrados en la aplicación y sus roles. Se debe agregar el rol de administrador en Stormpath (el mecanismo de seguridad que está utilizando la aplicación). (3) DAVID
 
 **R4.** El sistema debe ofrecer al comprador la posibilidad de registrar preguntas sobre un producto de un proveedor específico. La pregunta se debe persistir con el producto al que hace referencia, el usuario, su email, la fecha y la descripción.  Cuando se registre la pregunta al proveedor, al proveedor debe llegarle una notificación por email. (5) HAROLD
-R5.  El sistema debe ofrecer al comprador la posibilidad de realizar una búsqueda sobre el catálogo de productos que retorne el producto más barato de un proveedor dado, o el proveedor que ofrece el producto más barato de un tipo de producto dado. (5)  WILMAR FUQUEN
+
+**R5.**  El sistema debe ofrecer al comprador la posibilidad de realizar una búsqueda sobre el catálogo de productos que retorne el producto más barato de un proveedor dado, o el proveedor que ofrece el producto más barato de un tipo de producto dado. (5)  WILMAR FUQUEN
 
 **R6.** El sistema debe ofrecer al proveedor la posibilidad de agregar un descuento especial a alguno de sus productos. Esta información debe desplegarse en el catálogo. (3) 
 
