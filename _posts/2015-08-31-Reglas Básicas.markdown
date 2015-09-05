@@ -26,4 +26,12 @@ Dadas las fechas de entrega ya pactadas para cada ciclo, es indispensable comple
 
 # Más allá de las entregas, calidad en los artefactos desarrollados
 
-“Calidad significa hacer lo correcto cuando nadie está mirando”  Henry Ford. Muchas veces realizar las entregas a tiempo no basta, es por eso que uno de los acuerdos básicos del equipo es el hecho de realizar entregas con calidad, commits libres de errores, con buena cobertura de pruebas, con documentación suficiente, deuda técnica baja, seguimiento de estándares de calidad, commits correctamente marcados y en general uso de buenas prácticas de codificación. Finalmente esperamos que en los requerimientos de mayor valor para el cliente tengamos un plus o un valor diferenciador en la implementación de estos.
+“Calidad significa hacer lo correcto cuando nadie está mirando”  Henry Ford. Muchas veces realizar las entregas a tiempo no basta, es por eso que uno de los acuerdos básicos del equipo es el hecho de realizar entregas cumpliento con los siguientes items: 
+
+- commits libres de errores
+- cobertura de pruebas mayor al 70%
+- documentación mayor al 15%
+- deuda técnica baja (bloqueantes y críticos en 0, deuda técnica menor a 5d)
+- commits con mensajes dicientes y apropiados
+
+Finalmente esperamos que en los requerimientos de mayor valor para el cliente tengamos un plus o un valor diferenciador en la implementación de estos.
