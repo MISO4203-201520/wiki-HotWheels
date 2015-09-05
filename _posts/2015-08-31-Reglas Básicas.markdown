@@ -16,8 +16,11 @@ En caso de que un miembro llegue tarde recompensará a los otros miembros con tr
 # Sobre la comunicación
 
 Se estipularon los siguientes canales de comunicación según el caso:
+
 - **Google drive**, como medio para compartir bibliografía de tutoriales y demás documentos de interés; documentos entregables de cada ciclo; documentos de planeación y otros documentos que apoyen de manera activa nuestros ciclos de desarrollo.
+
 - **Whatsapp**, como medio de aclaración de dudas, seguimiento de tareas y definición de compromisos que apoyen el día a día de nuestros ciclos de desarrollo. En particular se espera que los miembros del equipo respondan oportunamente a los comunicados y compromisos diarios, aunque respetaremos las otras actividades que todos desarrollamos a cabo.
+
 - **Skype empresarial**, como medio para realizar videollamadas de seguimiento, colaboración entre el equipo, resolución de problemas y sesiones tutoriales sobre temas técnicos relevantes para el equipo.
 
 # Sobre las entregas
