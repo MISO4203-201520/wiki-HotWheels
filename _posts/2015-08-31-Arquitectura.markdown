@@ -22,5 +22,6 @@ El artefacto generado mpUsedVehicle.web.0.0.1-SNAPSHOT.war es desplegado en un s
 
 ##Vista de desarrollo
 
+![Vista despliegue]({{ site.url }}{{site.baseurl}}/assets/ciclo1/DiagramaClases-Entidades.png)
 
 El proyecto principal se compone por dos módulos, el primero contiene la lógica de persistencia y el segundo es un módulo web donde se encuentra el Frontend. Mediante un archivo pom.xml se empaquetan ambos módulos en un artefacto WAR.
