@@ -34,13 +34,13 @@ categories: posts
 
 #Otros ciclos
 
-**R6.** El sistema debe ofrecer al proveedor la posibilidad de agregar un descuento especial a alguno de sus productos. Esta información debe desplegarse en el catálogo. (3) 
+**R6.** El sistema debe ofrecer al proveedor la posibilidad de agregar un descuento especial a alguno de sus productos. Esta información debe desplegarse en el catálogo. Guillermo 
 
-**R7.** Disponer de una galería virtual de proveedores de carros usados, que admita criterios de clasificación (modelo, marca, ciudad de venta, rango de precios, etc.).
+**R7.** Disponer de una galería virtual de proveedores de carros usados, que admita criterios de clasificación (modelo, marca, ciudad de venta, rango de precios, etc.). Wilmar
 
-**R8.** Contar con un sistema de búsqueda que permita localizar de manera simple las distintas ofertas. 
+**R8.** Contar con un sistema de búsqueda que permita localizar de manera simple las distintas ofertas. [Descuento + String de Oferta] David 
 
-**R9.** Brindar herramientas de envío de mensajes internos (entre proveedores de carros, entre clientes o entre ambos).
+**R9.** Brindar herramientas de envío de mensajes internos (entre proveedores de carros, entre clientes o entre ambos). [Dependencia con R2]
 
 **R10.** Foros de discusión para los usuarios de la plataforma (estos deben poder ser almacenados y posteriormente consultados por los clientes involucrados en la discusión).
 
@@ -58,7 +58,7 @@ categories: posts
 
 **R17.** Registrar/actualizar un proveedor de carros en el sitio web
 
-**R18.** Registrar/actualizar un producto
+**R18.** Registrar/actualizar un producto. Diego.
 
 **R19.** Publicar ofertas de los productos (Preguntar si es el mismo R6)
 
@@ -66,6 +66,6 @@ categories: posts
 
 **R21.** Consultar las calificaciones de los compradores
 
-**R22.** Responder preguntas de usuarios compradores
+**R22.** Responder preguntas de usuarios compradores. Harold.
 
 **R23.** Actualizar el estado del pedido de un cliente
