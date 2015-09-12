@@ -31,9 +31,10 @@ categories: posts
 
 **R5.**  El sistema debe ofrecer al comprador la posibilidad de realizar una búsqueda sobre el catálogo de productos que retorne el producto más barato de un proveedor dado, o el proveedor que ofrece el producto más barato de un tipo de producto dado. (5)  WILMAR FUQUEN
 
-**R6.** El sistema debe ofrecer al proveedor la posibilidad de agregar un descuento especial a alguno de sus productos. Esta información debe desplegarse en el catálogo. (3) 
 
 #Otros ciclos
+
+**R6.** El sistema debe ofrecer al proveedor la posibilidad de agregar un descuento especial a alguno de sus productos. Esta información debe desplegarse en el catálogo. (3) 
 
 **R7.** Disponer de una galería virtual de proveedores de carros usados, que admita criterios de clasificación (modelo, marca, ciudad de venta, rango de precios, etc.).
 
