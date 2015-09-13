@@ -9,9 +9,9 @@ categories: posts
 
 # Sobre la dedicación y el compromiso
 
-Dentro de los primeros puntos que se debatió con el grupo y producto de la experiencia de trabajo en grupo en semestres anteriores, se propuso la necesidad de contar con una reunión semanal presencial en la que se discutan todos aquellos temas relevantes para el grupo, tales como: visión y misión del proyecto, cronograma de actividades, decisiones arquitecturales o funcionales, división de tareas y en general estrategia en el modo en que el grupo atacará cada sprint. La reunión quedó estipulada como indispensable para todos los miembros del grupo y quedó estipulada para los días sábado. 
+Dentro de los primeros puntos que se debatió con el grupo y producto de la experiencia de trabajo en grupo en semestres anteriores, se propuso la necesidad de contar con una reunión semanal presencial en la que se discutan todos aquellos temas relevantes para el grupo, tales como: visión y misión del proyecto, cronograma de actividades, decisiones arquitecturales o funcionales, división de tareas y en general estrategia en el modo en que el grupo atacará cada sprint. La reunión quedó estipulada como indispensable para todos los miembros del grupo, siendo el día sabado el escogido para tal objetivo.
 
-En caso de que un miembro llegue tarde recompensará a los otros miembros con traer comida para la próxima reunión. Adicionalmente tendremos reuniones cortas entre semana para realizar seguimiento a las tareas y solucionar problemas puntuales de los integrantes.
+En caso de que un miembro no llegue a la reunión o en su defecto llegue pasados 15 minutos de la hora estipulada recompensará a los otros miembros con traer comida para la próxima reunión. Adicionalmente tendremos reuniones cortas entre semana para realizar seguimiento de las tareas y solucionar problemas puntuales de los integrantes.
 
 # Sobre la comunicación
 
@@ -25,7 +25,7 @@ Se estipularon los siguientes canales de comunicación según el caso:
 
 # Sobre las entregas
 
-Dadas las fechas de entrega ya pactadas para cada ciclo, es indispensable completar a cabalidad cada uno de los requerimientos que se le asignen a cada miembro del grupo, igualmente es indispensable cumplir con las tareas de apoyo o seguimiento y se espera una ayuda técnica para con los integrantes que lo requieran. En específico, en las reuniones de los sábados se espera un avance incremental en los requerimientos a desarrollar y para el domingo antes de finalizar el ciclo se debe entregar la totalidad de los desarrollos.
+Dadas las fechas de entrega ya pactadas para cada ciclo, es indispensable completar a cabalidad cada uno de los requerimientos que se le asignen a cada miembro del grupo, igualmente es indispensable cumplir con las tareas de apoyo o seguimiento y se espera una ayuda técnica para con los integrantes que lo requieran. En específico, en las reuniones de los sábados se espera un avance incremental en los requerimientos a desarrollar y para el domingo antes de finalizar el ciclo se debe entregar la totalidad de los desarrollos. En particular se estipula como fecha máxima de entrega de los requerimientos el día Domingo previo al fin de ciclo a las 10 am, la entrega deberá quedar en la rama master.
 
 # Más allá de las entregas, calidad en los artefactos desarrollados
 
