@@ -15,7 +15,8 @@ categories: posts
 |C4|R11, R14, R19, R20, R21|20/10/2015|10/11/2015|
 
 
-#Criterios de Selección de Requerimientos
+
+**Criterios de Selección de Requerimientos**
 
 **- Independencia:** Tienen prioridad los requerimientos que puedan hacerse sin depender de ningún otro requerimiento del mismo ciclo. Intentando distribuir el total de los requerimientos a los largo de los futuros ciclos de esta forma.
 
