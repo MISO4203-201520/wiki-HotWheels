@@ -7,7 +7,11 @@ categories: posts
 
 # Administración de Riesgos
 
-# Matriz de Riesgos
+# Mapa de Riesgos
+
+Por decisión grupal, se opta por minimizar el mapa de riesgos solo a los siguientes campos para evitar dificultades en una administración de riesgos completa.
+
+# Forma Antigua
 
 ![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/Tabla 1.png)
 
