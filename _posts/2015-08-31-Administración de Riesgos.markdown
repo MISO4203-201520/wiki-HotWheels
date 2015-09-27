@@ -11,6 +11,8 @@ categories: posts
 
 Por decisión grupal, se opta por minimizar el mapa de riesgos solo a los siguientes campos para evitar dificultades en una administración de riesgos completa.
 
+![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/riesgos_nueva_forma.png)
+
 # Forma Antigua
 
 ![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/Tabla 1.png)
