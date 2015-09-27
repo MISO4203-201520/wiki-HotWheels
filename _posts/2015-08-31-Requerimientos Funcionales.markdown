@@ -38,7 +38,7 @@ categories: posts
 
 **R7.** Disponer de una galería virtual de proveedores de carros usados, que admita criterios de clasificación (modelo, marca, ciudad de venta, rango de precios, etc.). Wilmar
 
-**R8.** Contar con un sistema de búsqueda que permita localizar de manera simple las distintas ofertas. [Descuento + String de Oferta] David 
+**R8.** Contar con un sistema de búsqueda que permita localizar de manera simple las distintas ofertas. [Descuento + String de Oferta]. {De acuerdo a lo conversado con el monitor, lo que el cliente necesita en este requerimiento es contar con un sistema de búsqueda avanzado para ubicar productos del catálogo de acuerdo a una serie de criterios (marca, modelo, etc.).} David 
 
 **R9.** Brindar herramientas de envío de mensajes internos (entre proveedores de carros, entre clientes o entre ambos). [Dependencia con R2]
 
