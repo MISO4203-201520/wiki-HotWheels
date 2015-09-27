@@ -23,8 +23,8 @@ La siguiente es la distribución de tareas del ciclo 1 para el equipo de desarro
 ### Estimación
 
 Al realizar el levantamiento de tiempos y número de líneas de código generadas luego del primer ciclo, encontramos que para los 5 requerimientos desarrollados se habían empleado: 
-- 39 horas para la parte del front-end y 594 líneas de código. 
-- 33 horas en back-end y 1513 líneas de código.
+* 39 horas para la parte del front-end y 594 líneas de código. 
+* 33 horas en back-end y 1513 líneas de código.
 
 Se empieza a hacer evidente que la dificultad tecnológica basada en tiempos de desarrollo, se encuentra orientada a la parte del front-end, por lo que se deberá trabajar mucho en sobre la capacitación del equipo en esta parte.
 
