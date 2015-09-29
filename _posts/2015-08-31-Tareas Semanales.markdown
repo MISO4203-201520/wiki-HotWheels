@@ -33,6 +33,8 @@ Adicionalmente, estimamos 5 requerimientos para el ciclo 2, todos en su gran may
 
 Al realizar la regresión lineal incluyendo el proyecto histórico No. 6 y basados en la estimación del nuevo ciclo 2, se visualiza en  la gráfica que para las 2110 líneas de código estimadas, el equipo se tomará aproximadamente 79 horas +/- 3.38 horas en desarrollarlas, con un intervalo de confianza del 70%. Al interpretar el valor del rango de 3.38 horas, podemos afirmar que es una estimación acertada y confiable y que estará muy ajustada al valor real que registrará el equipo. La anterior estimación servirá como insumo de la planeación del ciclo 2 y nos dará elementos confiables para asignar o no más tareas.
 
+[Estimación ciclo 2](https://drive.google.com/open?id=0B1LKklBsJa3nc2V1eGdEbTRHLVk)
+
 ### Cierre de ciclo
 
 Luego de culminar la fase de desarrollo y validación del proyecto, encontramos que para el ciclo 2 el equipo invertio un total de:
@@ -42,11 +44,3 @@ Luego de culminar la fase de desarrollo y validación del proyecto, encontramos 
 *  7 horas en corrección de bug, ciclo 1
 
 Para un total de 81.5 horas invertidas entre todo el equipo. Al comparar dicho valor con las estimación realizada al inicio del ciclo es posible constatar la correlación de lo planeado vs lo real, encontrando que el valor en horas total se encontraba en el intervalo previsto de 79 horas +/- 3.38 horas.
-
-
-
-
-
-
-
-[Estimación ciclo 2](https://drive.google.com/open?id=0B1LKklBsJa3nc2V1eGdEbTRHLVk)
