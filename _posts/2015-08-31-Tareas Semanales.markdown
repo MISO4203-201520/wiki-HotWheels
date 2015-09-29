@@ -14,9 +14,9 @@ La siguiente es la distribución de tareas del ciclo 1 para el equipo de desarro
 [Tareas ciclo1](https://docs.google.com/spreadsheets/d/14Re4MI1rdxEbGsIuDLv_oj2KlumaGstapvi19gIuKo0/edit?usp=sharing "Tareas ciclo1")
 
 
-### Conclusiones
+### Cierre de ciclo
 
-[Ciclo 1](https://docs.google.com/presentation/d/1g5UzcYH4Qz4lw9r8Eyu8MHv7IrxCKqJwW8yT1JW-40E/edit?usp=sharing)
+[Conclusiones ciclo 1](https://docs.google.com/presentation/d/1g5UzcYH4Qz4lw9r8Eyu8MHv7IrxCKqJwW8yT1JW-40E/edit?usp=sharing)
 
 ## Ciclo 2
 
