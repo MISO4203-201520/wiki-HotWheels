@@ -9,9 +9,9 @@ categories: posts
 
 # Mapa de Riesgos
 
-Por decisión grupal, se opta por minimizar el mapa de riesgos solo a los siguientes campos para evitar dificultades en una administración de riesgos completa.
+![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo3/Riesgos.jpg)
 
-![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/riesgos_nueva_forma.png)
+<!---
 
 # Forma Antigua
 
@@ -28,3 +28,6 @@ Por decisión grupal, se opta por minimizar el mapa de riesgos solo a los siguie
 ## Matriz de Conocimiento
 
 ![Riesgos]({{ site.url }}{{site.baseurl}}/assets/ciclo1/Tabla 4.png)
+
+
+-->
