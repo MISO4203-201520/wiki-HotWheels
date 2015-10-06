@@ -35,7 +35,7 @@ categories: posts
 
 **R6.** El sistema debe ofrecer al proveedor la posibilidad de agregar un descuento especial a alguno de sus productos. Esta información debe desplegarse en el catálogo. Guillermo 
 
-**R7.** Disponer de una galería virtual de proveedores de carros usados, que admita criterios de clasificación (modelo, marca, ciudad de venta, rango de precios, etc.). Wilmar
+**R7.** Disponer de una galería virtual de proveedores de carros usados, que admita criterios de clasificación (modelo, marca, ciudad de venta, rango de precios, etc.). Explicación: Se espera que al final del desarrollo la aplicación cuente con filtros avanzados para la busqueda de proveedores. WILMAR FUQUEN
 
 **R8.** Contar con un sistema de búsqueda que permita localizar de manera simple las distintas ofertas. (De acuerdo a lo conversado con el monitor, lo que el cliente necesita en este requerimiento es contar con un sistema de búsqueda avanzado para ubicar productos del catálogo de acuerdo a una serie de criterios (marca, modelo, capacidad de pasajeros, rangos de precios)). David 
 

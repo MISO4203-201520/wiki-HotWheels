@@ -61,3 +61,10 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 * En front-end el equipo invirtió 28.1 horas para desarrollar 771 LOCS, lo que está correlacionado con las  31 +/- 4.08 horas y con las 610 LOCS planeadas, se entiende entonces que el modelo está cada vez más afinado en cuanto al front-end se trata y que en definitiva debe serguirse usando sin mayores ajustes.
 
 * En back-end el equipo invirtió 32 horas para 683 LOCS, lo que en definitiva no esta correlacionado con las 141 +/- 16 horas, ni con las 1500 LOCS planeadas, en ese sentido es importante hace un ajuste mayor para que el modelo pueda seguirse usando de una forma más asertiva.
+
+
+## Ciclo 3
+
+### Objetivos, metricas y evaluación
+
+![Vista despliegue]({{ site.url }}{{site.baseurl}}/assets/ciclo3/ObjetivosCiclo3.png)
