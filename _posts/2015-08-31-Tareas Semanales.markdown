@@ -64,7 +64,7 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 
 ### Requerimientos Planteados vs Terminados
 
-[Gráfica de planeados vs Terminados](https://www.udemy.com/courses/search/?ref=home&q=android&price=price-free)
+[Gráfica de planeados vs Terminados](https://docs.google.com/spreadsheets/d/1Dy6jvOLEXV6xR40aLhJGvpo8SqrUcJW0XhgR6akrCkA/edit?usp=sharing)
 
 
 ## Ciclo 3
