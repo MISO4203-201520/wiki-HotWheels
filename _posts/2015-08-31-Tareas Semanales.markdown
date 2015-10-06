@@ -66,6 +66,9 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 
 [Gráfica de planeados vs Terminados](https://docs.google.com/spreadsheets/d/1Dy6jvOLEXV6xR40aLhJGvpo8SqrUcJW0XhgR6akrCkA/edit?usp=sharing)
 
+### Valor Ganado
+
+![Valor Ganado]({{ site.url }}{{site.baseurl}}/assets/ciclo2/valorGanado.png)
 
 ## Ciclo 3
 
