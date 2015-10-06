@@ -38,6 +38,10 @@ La anterior estimación servirá como insumo de la planeación del ciclo 2 y nos
 
 ### Cierre de ciclo
 
+### Objetivos, metricas y evaluación
+
+![Vista despliegue]({{ site.url }}{{site.baseurl}}/assets/ciclo2/ObjetivosCiclo2.png)
+
 ### Tamaño Real (LOCS) nueva entrada en el archivo de estimación.
 
 En el siguiente archivo ya se incluye el ciclo 2 como datos históricos, preparando la regresión para un nuevo estimado futuro.
