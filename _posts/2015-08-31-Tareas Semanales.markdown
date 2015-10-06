@@ -62,6 +62,10 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 
 * En back-end el equipo invirtió 32 horas para 683 LOCS, lo que en definitiva no esta correlacionado con las 141 +/- 16 horas, ni con las 1500 LOCS planeadas, en ese sentido es importante hace un ajuste mayor para que el modelo pueda seguirse usando de una forma más asertiva.
 
+### Requerimientos Planteados vs Terminados
+
+[Gráfica de planeados vs Terminados](https://www.udemy.com/courses/search/?ref=home&q=android&price=price-free)
+
 
 ## Ciclo 3
 
