@@ -71,5 +71,6 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 ![Valor Ganado]({{ site.url }}{{site.baseurl}}/assets/ciclo2/valorGanado.png)
 
 ## Ciclo 3
-[[Nuevos Integrantes|Nuevos Integrantes]]
-[[Objetivos| Objetivos]]
+*  [Nuevos Integrantes]({{ site.url }}{{site.baseurl}})
+*  [Objetivos]({{ site.url }}{{site.baseurl}}/posts/2015/08/31/Objetivos.html)
+*  ### Integración de integrantes - Plan de acción

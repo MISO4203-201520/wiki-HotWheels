@@ -5,7 +5,6 @@ date:   2015-08-31 00:00:02
 categories: posts
 ---
 # Objetivos
-## Generales
 <table>
     <tr>
         <td>Código</td>
