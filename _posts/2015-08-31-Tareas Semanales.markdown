@@ -72,6 +72,4 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 
 ## Ciclo 3
 
-### Objetivos, metricas y evaluación
-
-![Vista despliegue]({{ site.url }}{{site.baseurl}}/assets/ciclo3/ObjetivosCiclo3.png)
+[[Objetivos|Objetivos/###Ciclo 3 - Objetivos, metricas y evaluación]]

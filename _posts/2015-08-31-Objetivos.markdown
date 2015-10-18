@@ -5,6 +5,7 @@ date:   2015-08-31 00:00:02
 categories: posts
 ---
 # Objetivos
+## Generales
 <table>
     <tr>
         <td>Código</td>
@@ -52,3 +53,13 @@ categories: posts
         </td>
     </tr>
 </table>
+
+## Específicos de cada ciclo
+
+### Ciclo 2 - Objetivos, metricas y evaluación
+
+![Vista despliegue]({{ site.url }}{{site.baseurl}}/assets/ciclo2/ObjetivosCiclo2.png)
+
+### Ciclo 3 - Objetivos, metricas y evaluación
+
+![Vista despliegue]({{ site.url }}{{site.baseurl}}/assets/ciclo3/ObjetivosCiclo3.png)
