@@ -71,16 +71,24 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 ![Valor Ganado]({{ site.url }}{{site.baseurl}}/assets/ciclo2/valorGanado.png)
 
 ## Ciclo 3
+
 ### Lanzamiento
+
 *  [Nuevos Integrantes]({{ site.url }}{{site.baseurl}})
 *  [Objetivos]({{ site.url }}{{site.baseurl}}/posts/2015/08/31/Objetivos.html)
 *  Plan de acción - Nuevo integrantes
+
 ### Estrategia
+
 *  [Requerimientos]({{ site.url }}{{site.baseurl}}/posts/2015/08/31/Requerimientos%20Funcionales.html)
 *  Estimación de Tamaño y Esfuerzo
 *  [Alcance Ciclo 3 y 4]({{ site.url }}{{site.baseurl}}/posts/2015/08/31/Alcance%20Global.html)
+
 ### Proceso de Desarrollo
+
 *  [Pruebas automatizadas](http://157.253.238.75:9000/dashboard/index/19062)
 *  [Proceso de control de cambios](https://docs.google.com/spreadsheets/d/1EY9kZ2vlcybCYhZgqZo5CFgwOImGOc6ICs_s492ttq8/edit?usp=sharing)
+
 ### Conclusión
+
 *  [Presentación](https://docs.google.com/presentation/d/1Ttu2e-B1XP0-vbre3gNwiKXirlRzxr2NIwAY07wHaLE/edit?usp=sharing)
