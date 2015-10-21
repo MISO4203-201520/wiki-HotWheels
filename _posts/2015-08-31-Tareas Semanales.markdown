@@ -80,6 +80,7 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 	*  Se realizará un sesión de integración con los nuevos miembros. En esta reunión se explicarán los principales aspectos a tener en cuenta en el desarrollo del proyecto. 
 	*  Se espera que los nuevos integrantes revisen por su propia cuenta la información publicada en la wiki y en la carpeta de Google Drive.
 	*  Los nuevos miembros deberán intentar compilar el producto por su propia cuenta. En caso de presentar inconvenientes, los antiguos miembros deberán ayudarlos. 
+*  [DoD](https://docs.google.com/document/d/1e3ga3i8LHuFEvA-bIsMqZKeXr0gYDTVHjoMtjFE5Ap4/edit?usp=sharing)
 
 
 ### Estrategia
