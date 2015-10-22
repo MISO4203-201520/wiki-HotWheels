@@ -96,4 +96,30 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 
 ### Conclusión
 
-*  [Presentación](https://docs.google.com/presentation/d/1Ttu2e-B1XP0-vbre3gNwiKXirlRzxr2NIwAY07wHaLE/edit?usp=sharing)
+1. **Análisis de evaluaciones de pares**
+
+* Diego
+* Wilmar
+* Guillermo
+* Miguel
+* Viviana
+
+2. **Métricas de producto**
+
+* Totalizar líneas de código (Front, Service, Back y pruebas)
+* % de requerimientos completados
+* Cubrimiento de las pruebas
+3. **Métricas del proceso**
+* Análisis de valor ganado
+* Productividad del equipo
+
+4. Estrella de mar
+
+* [Individual](https://docs.google.com/spreadsheets/d/1DaYuyrtKkcW4-KschbRKO6uCC-bYroytknorLzyT7XI/edit?usp=sharing)
+* Grupal
+![Estrella de Mar]({{ site.url }}{{site.baseurl}}/assets/ciclo3/EstrellaMar.png)
+* [Reflexión](https://docs.google.com/document/d/1z65MxoLctaMyUXq0Dt-IlQb8f-_w1Z58MDcOP-IuafE/edit?usp=sharing)
+
+5. Plan de mejora
+
+*  [Presentación](https://docs.google.com/presentation/d/1Ajiv8MKhjHTsToQL-YA_xA0GQBtzPPLm-f1Nz4kXIAQ/edit?usp=sharing)
