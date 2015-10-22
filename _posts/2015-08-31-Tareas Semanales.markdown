@@ -120,7 +120,8 @@ Opinión general sobre el trabajo del compañero que está evaluando. | Buena di
 Elementos por mejorar | Puntualidad
 
 Con base en las opiniones de mis compañeros, para el ciclo 4 me propongo mejorar en los siguientes aspectos:
-- Ser más puntual en las reuniones grupales. Esto puede mejorar la actitud del grupo y su disposición..
+
+- Ser más puntual en las reuniones grupales. Esto puede mejorar la actitud del grupo y su disposición.
 - Contribuir más al equipo, ser un miembro más proactivo. Estar más pendiente como desarrollador a mejoras que se puedan realizar.
 
 2. **Métricas de producto**
