@@ -119,6 +119,7 @@ Pregunta | Consolidado
 Opinión general sobre el trabajo del compañero que está evaluando. | Buena disposición y colaboración 
 Elementos por mejorar | Puntualidad
 
+
 Con base en las opiniones de mis compañeros, para el ciclo 4 me propongo mejorar en los siguientes aspectos:
 
 - Ser más puntual en las reuniones grupales. Esto puede mejorar la actitud del grupo y su disposición.
@@ -128,7 +129,16 @@ Con base en las opiniones de mis compañeros, para el ciclo 4 me propongo mejora
 
 	* Totalizar líneas de código (Front, Service, Back y pruebas)
 	* % de requerimientos completados
+En el ciclo 3 se plantearon 4 requerimiento por desarrollar y 2 cambios, de los cuales **satisfactoriamente se implementaron y completaron el 100 %** de estos. Sin embargo, cabe resaltar que de los requerimientos implementados no fue posible realizar pruebas tanto de servicio como funcionales.  
+Igualmente, no se agregaron pruebas de lógica sobre requerimientos de los ciclos 1 y 2. Lo anterior, debido a la dificultad de configuración de las diferentes pruebas lo que consumió gran parte del tiempo.
+En cuanto al avance de los requerimientos totales del ciclo, se ha desarrollado el 78.26 % de los requerimientos planteados en la aplicación mpUsedVehcles.
+
+
 	* Cubrimiento de las pruebas
+	![Cubrimienrto ciclo 3]({{ site.url }}{{site.baseurl}}/assets/ciclo3/cubrimiento.png)
+En cuanto al cubrimiento del código, dado que no posible avanzar en pruebas de requerimientos de los ciclos pasados y que la configuración de las pruebas de servicio y funcionales requirieron mas tiempo del planeado, el porcentaje de cubrimiento es inferior al 70 %. Tan solo se logro cubrir un 36.3 % de incluye pruebas de lógica de 3 requerimientos, pruebas de servicio de 2 requerimientos y 1 prueba funcional.
+Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y calidad del código, pues la curva de aprendizaje de las nuevas tecnologías de las pruebas fue abarcada en este ciclo y ya tenemos un conocimiento para avanzar en el siguiente.
+
 
 3. **Métricas del proceso**
 
