@@ -96,9 +96,7 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 
 ### Conclusión
 
-1. **Análisis de evaluaciones de pares**
-
-* [Conclusiones](https://docs.google.com/document/d/1XrhJOlSjr3A4MZhL8RPtVbescqBXF42Kh3OkP87lJNM/edit?usp=sharing)
+1. [**Análisis de evaluaciones de pares**](https://docs.google.com/document/d/1XrhJOlSjr3A4MZhL8RPtVbescqBXF42Kh3OkP87lJNM/edit?usp=sharing)
 
 2. **Métricas de producto**
 
