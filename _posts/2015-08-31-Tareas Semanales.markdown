@@ -98,32 +98,7 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 
 1. **Análisis de evaluaciones de pares**
 
-	* Diego
-	* Wilmar
-	* Guillermo
-	* Miguel
-	* Viviana
-
-	En seguida se muestra el consolidado de las evaluaciones.
-
-Pregunta | Consolidado 
-:-- | :--: 
-1. El compañero prepara el trabajo antes de clase o de la reunión | 4.0 
-2. El compañero cumple las reglas de funcionamiento del grupo | 4.0  
-3. El compañero muestra una actitud positiva en el trabajo | 4.0  
-4. El compañero respeta y es flexible ante las ideas de los demás | 4.0 
-5. El compañero contribuye con excelentes aportes y sugerencias | 3.5  
-6. El compañero desarrolla artefactos software de buena calidad | 4.0  
-7. El compañero cumple con las tareas asignadas | 4.5  
-8. El compañero desempeñó su rol de manera adecuada | 3.5  
-Opinión general sobre el trabajo del compañero que está evaluando. | Buena disposición y colaboración 
-Elementos por mejorar | Puntualidad
-
-
-Con base en las opiniones de mis compañeros, para el ciclo 4 me propongo mejorar en los siguientes aspectos:
-
-- Ser más puntual en las reuniones grupales. Esto puede mejorar la actitud del grupo y su disposición.
-- Contribuir más al equipo, ser un miembro más proactivo. Estar más pendiente como desarrollador a mejoras que se puedan realizar.
+* [Conclusiones](https://docs.google.com/document/d/1XrhJOlSjr3A4MZhL8RPtVbescqBXF42Kh3OkP87lJNM/edit?usp=sharing)
 
 2. **Métricas de producto**
 
