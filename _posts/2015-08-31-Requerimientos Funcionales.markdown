@@ -54,10 +54,12 @@ categories: posts
 
 #### Cambios incluídos
 
-**R00.** Agregar un vehículo. _Cambio:_ Agregar campos al vehículo: modelo, placa par o impar, ubicación, .... - _Diego_
+**R00.** Agregar un vehículo. _Cambio:_ Agregar campos al vehículo: modelo, placa par o impar, ubicación, .... - _Guillermo_
  
  **R1.** El sistema debe ofrecer al comprador la opción de pagar la compra. Se debe mostrar un formulario para realizar el pago que despliegue el total de la compra y el desglose en impuestos. Suponga que hay un impuesto a las ventas del 16% . Debe estar la posibilidad de seleccionar el tipo de tarjeta crédito/debito con el que se realizará el pago. Cuando el usuario seleccione pagar, el sistema debe guardar la información sobre el pago de forma persistente en la base de datos. _Cambio:_ Escoger en el formulario varios medios de pago: tarjeta débito, crédito, PSE y paypal. 
 Debe dar feddback al usuario: un mensaje sobre el resultado del pago (simulando que el pago se hizo) - _Diego_
+
+*	Se espera que los dos miembros que realizan cambios trabajen fuertemente sobre la deuda técnica del proyecto o sobre el cubrimiento de pruebas sobre el código.
 
 ### Ciclo 4
 
