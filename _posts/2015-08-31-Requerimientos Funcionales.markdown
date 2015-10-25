@@ -45,6 +45,7 @@ categories: posts
 
 ### Ciclo 3
 **R09.** El sistema brinda la posibilidad de intercambiar mensajes internos entre proveedores de carros, clientes o ambos. - _Miguel_
+
 **R15.** El sistema debe permitir a cualquier usuario filtrar por cualquier caracteristica del vehículo. Se espera que sea posible filtrar por una o varias carateristicas al momento de buscar un vehiculo a la venta. - _Wilmar_
 
 **R16.** El sistema debe permitir a los usuarios poder consultar el estado de un pedido desde las opciones del usuario, donde deben estar listados todos los pedidos de dicho usuario. Los estados pueden ser Autorizado, Aceptado por el proveedor, Cancelado y Enviado. - _Viviana_
