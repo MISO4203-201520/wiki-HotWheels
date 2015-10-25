@@ -111,13 +111,16 @@ En cuanto al avance de los requerimientos totales del ciclo, se ha desarrollado 
 
 ![Cubrimienrto ciclo 3]({{ site.url }}{{site.baseurl}}/assets/ciclo3/cubrimiento.png)
 
-En cuanto al cubrimiento del código, dado que no posible avanzar en pruebas de requerimientos de los ciclos pasados y que la configuración de las pruebas de servicio y funcionales requirieron mas tiempo del planeado, el porcentaje de cubrimiento es inferior al 70 %. Tan solo se logro cubrir un 36.3 % de incluye pruebas de lógica de 3 requerimientos, pruebas de servicio de 2 requerimientos y 1 prueba funcional.
+En cuanto al cubrimiento del código, dado que no fue posible avanzar en pruebas de requerimientos de los ciclos pasados y que la configuración de las pruebas de servicio y funcionales requirieron mas tiempo del planeado, el porcentaje de cubrimiento es inferior al 70 %. Tan solo se logro cubrir un 36.3 % de incluye pruebas de lógica de 3 requerimientos, pruebas de servicio de 2 requerimientos y 1 prueba funcional.
 Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y calidad del código, pues la curva de aprendizaje de las nuevas tecnologías de las pruebas fue abarcada en este ciclo y ya tenemos un conocimiento para avanzar en el siguiente.
 
 
 3. **Métricas del proceso**
 
 	* Análisis de valor ganado
+
+![Analisis ganado ciclo 3]({{ site.url }}{{site.baseurl}}/assets/ciclo3/valorGanado.png)
+
 	* Productividad del equipo
 
 4. **Estrella de mar**
