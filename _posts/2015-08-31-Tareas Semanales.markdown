@@ -92,7 +92,7 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 ### Proceso de Desarrollo
 
 *  [Pruebas automatizadas](http://157.253.238.75:9000/dashboard/index/19062)
-*  [Proceso de control de cambios](https://docs.google.com/spreadsheets/d/1EY9kZ2vlcybCYhZgqZo5CFgwOImGOc6ICs_s492ttq8/edit?usp=sharing)
+*  [Proceso de control de cambios](https://docs.google.com/spreadsheets/d/18pyr4Jx-RNRQWNpAwN0-070Ma5AlvjJwqeFIqNwEn_c/edit?usp=sharing)
 
 ### Conclusión
 
@@ -107,9 +107,9 @@ En el ciclo 3 se plantearon 4 requerimiento por desarrollar y 2 cambios, de los 
 Igualmente, no se agregaron pruebas de lógica sobre requerimientos de los ciclos 1 y 2. Lo anterior, debido a la dificultad de configuración de las diferentes pruebas lo que consumió gran parte del tiempo.
 En cuanto al avance de los requerimientos totales del ciclo, se ha desarrollado el 78.26 % de los requerimientos planteados en la aplicación mpUsedVehcles.
 
-	* Cubrimiento de las pruebas
+* Cubrimiento de las pruebas
 
-	![Cubrimienrto ciclo 3]({{ site.url }}{{site.baseurl}}/assets/ciclo3/cubrimiento.png)
+![Cubrimienrto ciclo 3]({{ site.url }}{{site.baseurl}}/assets/ciclo3/cubrimiento.png)
 
 En cuanto al cubrimiento del código, dado que no posible avanzar en pruebas de requerimientos de los ciclos pasados y que la configuración de las pruebas de servicio y funcionales requirieron mas tiempo del planeado, el porcentaje de cubrimiento es inferior al 70 %. Tan solo se logro cubrir un 36.3 % de incluye pruebas de lógica de 3 requerimientos, pruebas de servicio de 2 requerimientos y 1 prueba funcional.
 Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y calidad del código, pues la curva de aprendizaje de las nuevas tecnologías de las pruebas fue abarcada en este ciclo y ya tenemos un conocimiento para avanzar en el siguiente.

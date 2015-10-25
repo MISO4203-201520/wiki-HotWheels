@@ -43,30 +43,36 @@ categories: posts
 
 **R22.** Responder preguntas de usuarios compradores. Harold.
 
-### Otros ciclos
+### Ciclo 3
+**R09.** El sistema brinda la posibilidad de intercambiar mensajes internos entre proveedores de carros, clientes o ambos. - _Miguel_
+**R15.** El sistema debe permitir a cualquier usuario filtrar por cualquier caracteristica del vehículo. Se espera que sea posible filtrar por una o varias carateristicas al momento de buscar un vehiculo a la venta. - _Wilmar_
 
-**R9.** Brindar herramientas de envío de mensajes internos (entre proveedores de carros, entre clientes o entre ambos). [Dependencia con R2]
+**R16.** El sistema debe permitir a los usuarios poder consultar el estado de un pedido desde las opciones del usuario, donde deben estar listados todos los pedidos de dicho usuario. Los estados pueden ser Autorizado, Aceptado por el proveedor, Cancelado y Enviado. - _Viviana_
 
-**R10.** Foros de discusión para los usuarios de la plataforma (estos deben poder ser almacenados y posteriormente consultados por los clientes involucrados en la discusión).
+**R23.** El sistema debe permitir a los proveedores actualizar el estado del pedido realizado por un cliente - _Viviana_
 
-**R11.** Soportar servicios de comercio electrónico, manejo de transacciones, con carritos de compras. Validación de las transacciones. El MP debe ser capaz de determinar en cualquier momento el estado de cualquier transacción de compra/venta del sistema.
+#### Cambios incluídos
 
-**R12.** Registrase en el sitio web al momento de efectuar la compra de un producto
+**R00.** Agregar un vehículo. _Cambio:_ Agregar campos al vehículo: modelo, placa par o impar, ubicación, .... - _Diego_
+ 
+ **R1.** El sistema debe ofrecer al comprador la opción de pagar la compra. Se debe mostrar un formulario para realizar el pago que despliegue el total de la compra y el desglose en impuestos. Suponga que hay un impuesto a las ventas del 16% . Debe estar la posibilidad de seleccionar el tipo de tarjeta crédito/debito con el que se realizará el pago. Cuando el usuario seleccione pagar, el sistema debe guardar la información sobre el pago de forma persistente en la base de datos. _Cambio:_ Escoger en el formulario varios medios de pago: tarjeta débito, crédito, PSE y paypal. 
+Debe dar feddback al usuario: un mensaje sobre el resultado del pago (simulando que el pago se hizo) - _Diego_
 
-**R13.** Revisar histórico de transacciones efectuadas sobre la plataforma en un periodo de tiempo determinado
+### Ciclo 4
 
-**R14.** Calificar el servicio adquirido(s) luego de haber hecho uso del mismo dentro de un periodo de tiempo razonable
+**R10.** El sistema cuenta con un foro de discusión abierto entre los usuarios de la plataforma (cliente y proveedores). Cada mensaje debe ser almacenado y posteriormente consultado por los clientes involucrados. Los foros deben tener un titulo, mensajes y participantes de la conversación.
 
-**R15.** Buscar productos por varios criterios [Rel R7 Y R8]
+**R13.** El sistema debe permitir que cada cliente puede visualizar el listado de transacciones realizadas en un periodo de tiempo determinado.
 
-**R16.** Consultar el Estado de un pedido
+**R14.** El sistema debe permitir que los clientes puedan calificar el producto que han comprado. La calificación se debe habilitar una semana después de finalizada la transacción.
 
-**R17.** Registrar/actualizar un proveedor de carros en el sitio web
+**R20.** El administrador del MP debe poder revisar el histórico de las ventas realizadas en la plataforma. El historico debe incluir la fecha de relización de la venta, el proveedor y cliente involucrados, el monto pagado y el estado de la venta.
 
-**R19.** Publicar ofertas de los productos (Preguntar si es el mismo R6)
+**R21.** EL sistema debe permitir a los usuarios ver la calificacion de los compradores, al lado de su nombre en la aplicacion, como un numero de 0 a 5 (mayor es mejor). Con un decimal. Calculado en el promedio de calificaciones recibidas.
 
-**R20.** Revisar históricos de ventas [Rel R13]
+#### Cambios incluídos
 
-**R21.** Consultar las calificaciones de los compradores
+**R07.** El sistema debe proveer una galeria virtual a cada proveedor que incluya para los usuarios: diferentes criterios de clasificación de los vehiculos para encontrarlos. Entre los criterios solicitados se espera clasificación por modelo, por marca, por ciudad de venta y rango de precios.  _Cambio:_ La galería debe de disponer de varias imagenes y/o videos para cada vehículo.
 
-**R23.** Actualizar el estado del pedido de un cliente
+### Chequeo de Requerimientos
+*	[Archivo de Chequeo](https://docs.google.com/spreadsheets/d/1gbqvh-xTR9Dhh9Hh1EkAM7dDza2q9yeNAdvAw7Zd8qU/edit?usp=sharing)
