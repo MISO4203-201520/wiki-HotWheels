@@ -86,7 +86,10 @@ Para un total de 83.5 horas invertidas entre todo el equipo. Al comparar dicho v
 ### Estrategia
 
 *  [Requerimientos]({{ site.url }}{{site.baseurl}}/posts/2015/08/31/Requerimientos%20Funcionales.html)
-*  Estimación de Tamaño y Esfuerzo
+*  [Estimación de Tamaño y Esfuerzo](https://docs.google.com/spreadsheets/d/1ayouEV0mTv4BDxmHkgNkj5bFRYHMZQRWHE_a_FyYsvQ/edit?usp=sharing)
+	
+	Para el ciclo 3 se espera un tamaño de 460 LOC de Front, 1100 LOC de Back y 200 LOC de Servicios REST. Con base a la estimación PROBE se otuvo un total de 24 horas en Front y 120  horasde Back y Servicios. Adicionalmente, cpn base en el análisis de impacto del control de cambios se espera un esfuerzo de 23 horas. Por tanto, se estima un esfuerzo del ciclo de 163 horas.
+
 *  [Alcance Ciclo 3 y 4]({{ site.url }}{{site.baseurl}}/posts/2015/08/31/Alcance%20Global.html)
 
 ### Proceso de Desarrollo
@@ -122,6 +125,11 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
 ![Analisis ganado ciclo 3]({{ site.url }}{{site.baseurl}}/assets/ciclo3/valorGanado.png)
 
 	* Productividad del equipo
+
+	No fue posible obtener el 100 % del valor ganado al finalizar el ciclo dado que se esperaba cumplir con las pruebas de Lógica, Servicios y Funcionalidad en todos los requerimientos y cambios. Las pruebas, como se menciona anteriormente tuvieron una gran dificultad en su configuración y no fue posible aumentar el cubrimiento del código. Sin embargo, sí fue posible completar todos los requerimientos y cambios planeados para el ciclo 3. 
+	Así mismo, se presentó un problema de seguimiento de las actividades en Youtrack lo que generó que en gran parte los tiempos se hayas actualizado al entre la semana 2 y 3. Esto último dificulta observar el valor ganad para cada semana. Adicionalmente, dado que teníamos como proposito finalizar los requerimientos solo cuando se obtuvieran las pruebas, tan sólo hasta los últimos días se modificó el estado de las tareas a finalizado. 
+	El poco seguimiento de las actividades también impacto en que algunos miembros no subieron sus tiempos de reuniones los cuales son significativos para el ciclo.
+	Finalmente, se obtuvo un esfuerzo total de 166 horas, es decir se obtuvo un error de estimación del 2 % correspondiente a 3 horas. Cabe destacar que no fue posible culminar las tareas de pruebas sobre los nuevos requerimientos.
 
 4. **Estrella de mar**
 
