@@ -141,3 +141,16 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
 5. **Plan de mejora**
 
 *  [Presentación](https://docs.google.com/presentation/d/1Ajiv8MKhjHTsToQL-YA_xA0GQBtzPPLm-f1Nz4kXIAQ/edit?usp=sharing)
+  
+
+## Ciclo 4
+
+### Lanzamiento
+
+*  [Roles de integrantes]({{ site.url }}{{site.baseurl}})
+*  [Objetivos]({{ site.url }}{{site.baseurl}}/posts/2015/08/31/Objetivos.html)
+  
+### Estrategia
+
+*  [Estimación de Tamaño y Esfuerzo](https://docs.google.com/spreadsheets/d/1ayouEV0mTv4BDxmHkgNkj5bFRYHMZQRWHE_a_FyYsvQ/edit?usp=sharing)
+*  Milestones por semana
