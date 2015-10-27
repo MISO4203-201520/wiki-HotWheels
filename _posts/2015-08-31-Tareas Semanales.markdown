@@ -120,11 +120,11 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
 
 3. **Métricas del proceso**
 
-	* Análisis de valor ganado
+* Análisis de valor ganado
 
 ![Analisis ganado ciclo 3]({{ site.url }}{{site.baseurl}}/assets/ciclo3/valorGanado.png)
 
-	* Productividad del equipo
+* Productividad del equipo
 
 	No fue posible obtener el 100 % del valor ganado al finalizar el ciclo dado que se esperaba cumplir con las pruebas de Lógica, Servicios y Funcionalidad en todos los requerimientos y cambios. Las pruebas, como se menciona anteriormente tuvieron una gran dificultad en su configuración y no fue posible aumentar el cubrimiento del código. Sin embargo, sí fue posible completar todos los requerimientos y cambios planeados para el ciclo 3. 
 	Así mismo, se presentó un problema de seguimiento de las actividades en Youtrack lo que generó que en gran parte los tiempos se hayas actualizado al entre la semana 2 y 3. Esto último dificulta observar el valor ganad para cada semana. Adicionalmente, dado que teníamos como proposito finalizar los requerimientos solo cuando se obtuvieran las pruebas, tan sólo hasta los últimos días se modificó el estado de las tareas a finalizado. 
