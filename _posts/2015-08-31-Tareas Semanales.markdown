@@ -132,7 +132,7 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
 	
 	El poco seguimiento de las actividades también impacto en que algunos miembros no subieron sus tiempos de reuniones los cuales son significativos para el ciclo.
 	
-	Finalmente, se obtuvo un esfuerzo total de 144.25 horas, es decir se obtuvo un error de estimación del 11.5 %. Cabe destacar que no fue posible culminar las tareas de pruebas sobre los nuevos requerimientos. Adicionalmente el tiempo estimado era mucho mayor al esperado (9 horas por miembro cada semana).
+	Finalmente, se obtuvo un esfuerzo total de 176.25 horas, es decir se obtuvo un error de estimación del 8 %. Cabe destacar que no fue posible culminar las tareas de pruebas sobre los nuevos requerimientos. Adicionalmente el tiempo estimado era mucho mayor al esperado (9 horas por miembro cada semana).
 
 4. **Estrella de mar**
 
