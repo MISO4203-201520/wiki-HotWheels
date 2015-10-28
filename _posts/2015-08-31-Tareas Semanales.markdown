@@ -155,5 +155,5 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
   
 ### Estrategia
 
-*  [Estimación de Tamaño y Esfuerzo](https://docs.google.com/spreadsheets/d/1ayouEV0mTv4BDxmHkgNkj5bFRYHMZQRWHE_a_FyYsvQ/edit?usp=sharing)
+*  [Estimación de Tamaño y Esfuerzo](https://docs.google.com/spreadsheets/d/1tWjSqYlVkoIaf0q8_vQTk5HoAzJyClC7EeRfPZfYB14/edit?usp=sharing)
 *  Milestones por semana
