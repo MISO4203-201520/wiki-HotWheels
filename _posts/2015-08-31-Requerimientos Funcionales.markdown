@@ -60,6 +60,8 @@ categories: posts
 Debe dar feddback al usuario: un mensaje sobre el resultado del pago (simulando que el pago se hizo) - _Diego_
 
 *	Se espera que los dos miembros que realizan cambios trabajen fuertemente sobre la deuda técnica del proyecto o sobre el cubrimiento de pruebas sobre el código.
+	
+La especificación de cada requerimiento se realizó por medio de mockups. Consulte [AQUÍ](https://docs.google.com/document/d/1CqNNPCR3mAW-G11B1Wwp5hZMXx8fy8lJqjoaQcxuMXk/edit?usp=sharing) el documentos con los mockups del ciclo.
 
 ### Ciclo 4
 
