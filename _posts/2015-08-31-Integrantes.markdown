@@ -49,6 +49,31 @@ Igualmente cualquier miembro del grupo tendrá la responsabilidad de desarrollar
 
 **Líder de Calidad** – Diego Agudelo, velar por calidad del producto entregado al final del ciclo. Para ello, el líder de calidad deberá identificar un plan de calidad que incluya estándares de entrega. En especial, deberá asegurar que todos los miembros del equipo conozcan y apliquen el mismo plan de calidad. También deberá velar por la aplicación de los estándares de calidad por parte de cada miembro del equipo. El líder de calidad, deberá hacer uso de diferentes indicadores de calidad, de los cuales dispone Sonar, para identificar y alertar al grupo en caso que se presente una reducción considerable de la calidad del producto. 
 
+**Desarrollador** – Todos los miembros del equipo, participar activamente en todas las actividades necesarias para entregar un producto final de alta calidad. El desarrollador deberá implementar los requerimientos que le sean asignados al igual que las pruebas unitarias y funcionales que sean necesarias. Igualmente el desarrollador deberá cumplir y conocer las decisiones tomadas en cada una de las reuniones. Deberá velar por que su requerimiento cumpla con los estándares definidos por el equipo.
+
+
+# Ciclo 4
+
+## Integrantes
+
+- Viviana Salcedo - Líder del equipo / Desarrollador
+- Guillermo Ferro - Líder de planeación / Desarrollador
+- Diego Agudelo - Líder de Soporte / Desarrollador
+- Wilmar Fuquen - Líder de Desarrollo / Desarrollador
+- Miguel Olivares- Líder de Calidad / Desarrollador
+
+## Roles y Responsabilidades
+
+**Líder del equipo** – Viviana Salcedo, motivar a los miembros del equipo, de modo que sea posible construir un ambiente entusiasta y feliz. Igualmente, el líder debe velar por el seguimiento de las actividades, asegurándose que el trabajo sea entregado completo y a tiempo. Deberá estar atento a cualquier dificultad que se presente en el equipo para poder resolverlo a tiempo. Además, debe moderar las reuniones grupales y fomentar la aplicación de la metodología de desarrollo. El líder deberá participar en la planeación semanal junto con el líder de planeación.
+
+**Líder de Planeación** – Guillermo Ferro, apoyar y guiar al equipo en la fase de planeación y seguimiento. El líder de planeación debe dirigir el plan de trabajo del ciclo, estimación del tamaño y esfuerzo del mismo. Igualmente se asegura de que el equipo cumpla el calendario y fechas especificadas. También se asegura de que exista un conocimiento de cada responsabilidad o tarea de un desarrollador durante la semana, haciendo uso de la herramienta de seguimiento Youtrack. Además, el líder de planeación deberá encargarse de asegurar un balance adecuado entre la carga de cada miembro del grupo.
+
+**Líder de Soporte** – Diego Agudelo
+
+**Líder de Desarrollo* – Wilmar Funquen
+
+**Líder de Calidad** – Miguel Olivares, velar por calidad del producto entregado al final del ciclo. Para ello, el líder de calidad deberá identificar un plan de calidad que incluya estándares de entrega. Para esto es necesario hacer seguimiento a la planeación, desarrollo y documentación de las Diferentes pruebas(Logica, Persistencia, Servicios, Selenium), de tal manera que se logre como mínimo un 50% de cobertura, asegurando que todos los miembros del equipo conozcan y apliquen el mismo plan de calidad. 
+
 **Desarrollador** – Todos los miembros del equipo, participar activamente en todas las actividades necesarias para entregar un producto final de alta calidad. El desarrollador deberá implementar los requerimientos que le sean asignados al igual que las pruebas unitarias y funcionales que sean necesarias. Igualmente el desarrollador deberá cumplir y conocer las decisiones tomadas en cada una de las reuniones. Deberá velar por que su requerimiento cumpla con los estándares definidos por el equipo. 
 
 
