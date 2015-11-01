@@ -62,3 +62,7 @@ categories: posts
 ### Ciclo 3 - Objetivos, metricas y evaluación
 
 ![Vista despliegue]({{ site.url }}{{site.baseurl}}/assets/ciclo3/ObjetivosCiclo3.png)
+
+### Ciclo 4 - Objetivos, metricas y evaluación
+
+![Vista despliegue]({{ site.url }}{{site.baseurl}}/assets/ciclo4/objetivos.png)
