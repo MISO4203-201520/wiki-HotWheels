@@ -143,12 +143,12 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
 
 5. **Plan de mejora**
 
-De acuerdo a los resultados obtenidos y a la retrospectiva de la estrella de mar, se plantean las siguientes mejoras para el ciclo 4:
-1. Realizar el correspondiente seguimiento de Youtrack cada semana, para identificar avances y posibles riesgos que se puedan presentar.
-2. Comunicar tareas de configuración a tiempo (por Whatsapp) para asegurar que no se realice un trabajo repetidas veces.
-3. Revisar el cambio de las métricas antes de subir los cambios a Github y luego de realizar los cambios, para identificar posibles aumentos a la deuda técnica.
-4. Planear con anticipación el desarrollo de las pruebas, en especial para el ciclo 4 se espera que todos los nuevos requerimientos tengan pruebas de lógica, persistencia y servicios.
-5. Se asignarán nuevas tareas de deuda técnica y de usabilidad con base en las encuestas recibidas y los resultados de Sonar.
+	De acuerdo a los resultados obtenidos y a la retrospectiva de la estrella de mar, se plantean las siguientes mejoras para el ciclo 4:
+	1.	Realizar el correspondiente seguimiento de Youtrack cada semana, para identificar avances y posibles riesgos que se puedan presentar.
+	2.	Comunicar tareas de configuración a tiempo (por Whatsapp) para asegurar que no se realice un trabajo repetidas veces.
+	3.	Revisar el cambio de las métricas antes de subir los cambios a Github y luego de realizar los cambios, para identificar posibles aumentos a la deuda técnica.
+	4.	Planear con anticipación el desarrollo de las pruebas, en especial para el ciclo 4 se espera que todos los nuevos requerimientos tengan pruebas de lógica, persistencia y servicios.
+	5.	Se asignarán nuevas tareas de deuda técnica y de usabilidad con base en las encuestas recibidas y los resultados de Sonar.
 
 *  [Presentación](https://docs.google.com/presentation/d/1Ajiv8MKhjHTsToQL-YA_xA0GQBtzPPLm-f1Nz4kXIAQ/edit?usp=sharing)
   
