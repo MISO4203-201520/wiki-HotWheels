@@ -68,7 +68,7 @@ Igualmente cualquier miembro del grupo tendrá la responsabilidad de desarrollar
 
 **Líder de Planeación** – Guillermo Ferro, apoyar y guiar al equipo en la fase de planeación y seguimiento. El líder de planeación debe dirigir el plan de trabajo del ciclo, estimación del tamaño y esfuerzo del mismo. Igualmente se asegura de que el equipo cumpla el calendario y fechas especificadas. También se asegura de que exista un conocimiento de cada responsabilidad o tarea de un desarrollador durante la semana, haciendo uso de la herramienta de seguimiento Youtrack. Además, el líder de planeación deberá encargarse de asegurar un balance adecuado entre la carga de cada miembro del grupo.
 
-**Líder de Soporte** – Diego Agudelo
+**Líder de Soporte** – Diego Agudelo, Deberá estar atento al manejo de las herramientas utilizadas por el equipo a lo largo del desarrollo del proyecto. Adicionalmente deberá estar pendiente en caso de dudas sobre las mismas para dar soporte siempre que sea necesario.
 
 **Líder de Desarrollo* – Wilmar Funquen
 
