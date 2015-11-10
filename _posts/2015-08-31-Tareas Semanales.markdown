@@ -191,13 +191,15 @@ En cuanto al avance de los requerimientos totales del ciclo, se ha desarrollado 
 * **Cubrimiento de las pruebas**
 
 
-![cubrimiento proyecto](https://drive.google.com/file/d/0B6VquslgslLmcFY5RDBVWE5zX2s/view?usp=sharing)
+![cubrimiento proyecto](https://www.dropbox.com/s/8h3zsw8jj6jz5dr/Pruebasciclo4.PNG?dl=0)
 Figura 1. Cubrimiento de pruebas del ciclo 4
 
-![cubrimiento proyecto](https://drive.google.com/file/d/0B6VquslgslLmLVhTcTBnRk1jTVU/view?usp=sharing)
+Por problemas de organización no fue posible aumentar considerablemente el cubrimiento de las pruebas. Por otro lado, no fue posible utilizar la automatización de las pruebas de lógica, persistencia y servicios, pues en nuestro caso al implementarlas nos salían varios errores en la compilación en Travis. Por lo anterior, fue necesario continuar con las pruebas manuales. Otro aspecto que incluyó en las pruebas fue que no se asignaron puntualmente tareas de pruebas sobre los componentes desarrollados en ciclos anteriores. Para una próxima oportunidad se recomienda asignar no solo nuevos requerimientos sino deuda técnica a todos los integrantes del equipo.
+
+![cubrimiento proyecto](https://www.dropbox.com/s/7o7g3uq62jlt0ec/Pruebasciclo4_web.PNG?dl=0)
 Figura 2. Cubirimeinto de pruebas en web
 
-![cubrimiento proyecto](https://drive.google.com/file/d/0B6VquslgslLmaUJhcGFlQ2xtZmM/view?usp=sharing)
+![cubrimiento proyecto](https://www.dropbox.com/s/wqzdd5f1p6z98af/Pruebasciclo4_logica.PNG?dl=0)
 Figura 3. Cubirimeinto de pruebas en logica
 
 
@@ -205,12 +207,12 @@ Figura 3. Cubirimeinto de pruebas en logica
 
 Con base en los tiempos que nos llevó corregir errores en de ciclos anteriores con respecto a los tiempos de corregir errores durante etapas tempranas y la prevención del mismo podemos decir lo siguiente:
 
-	* En caso que los errores sean mínimos, ej. Falta un “;”, el tiempo de corregir el error en etapas tempranas versus corregir el error en etapas más avanzadas o en diferentes ciclos, vemos que es el mismo tiempo. Es decir, el costo de la No conformidad es igual al costo de la conformidad.
+	*	En caso que los errores sean mínimos, ej. Falta un “;”, el tiempo de corregir el error en etapas tempranas versus corregir el error en etapas más avanzadas o en diferentes ciclos, vemos que es el mismo tiempo. Es decir, el costo de la No conformidad es igual al costo de la conformidad.
 
-	* Sin embargo, en caso que se prevenga el error, es más costos la No conformidad que la conformidad. En general por cada “;” que estemos pendientes de agregar el tiempo es de milésimas de segundo (ms). Comparada con el tiempo que le lleva la no conformidad del mismo, en este caso el tiempo puede aumentar a unos 10 minutos teniendo en cuenta que se debe localizar el archivo a modificar.
+	*	Sin embargo, en caso que se prevenga el error, es más costos la No conformidad que la conformidad. En general por cada “;” que estemos pendientes de agregar el tiempo es de milésimas de segundo (ms). Comparada con el tiempo que le lleva la no conformidad del mismo, en este caso el tiempo puede aumentar a unos 10 minutos teniendo en cuenta que se debe localizar el archivo a modificar.
 
-	* Con respecto a las pruebas, detectamos que es bastante costoso la conformidad del mismo, es decir, los tiempos aumentan e incluso se duplican o triplican al agregar pruebas a cada detalle del código. En este caso, es preferible la no conformidad, en donde se ataquen varias pruebas de códigos atrasados y estables. Este último proceso se puede automatizar.
-En general, a nosotros el tiempo de corrección de defectos o No Conformidad para este ciclo tuvo un costo de alrededor de 40 horas . Sin embargo, con este tiempo aún no se logró mejorar la calidad del código. Se recomienda identificar unas buenas prácticas para todos los miembros del equipo de modo que se reduzca el costo con la conformidad del mismo.
+	*	Con respecto a las pruebas, detectamos que es bastante costoso la conformidad del mismo, es decir, los tiempos aumentan e incluso se duplican o triplican al agregar pruebas a cada detalle del código. En este caso, es preferible la no conformidad, en donde se ataquen varias pruebas de códigos atrasados y estables. Este último proceso se puede automatizar.
+En general, a nosotros el tiempo de corrección de defectos o No Conformidad para este ciclo tuvo un costo de alrededor de 40 horas .Sin embargo, con este tiempo aún no se logró mejorar la calidad del código. Se recomienda identificar unas buenas prácticas para todos los miembros del equipo de modo que se reduzca el costo con la conformidad del mismo.
 
 * [Reporte de Deuda Técnica](https://docs.google.com/document/d/1o-46114uP65nyw1YL9yC19LjF06rr0f6GKQej0BePTE/edit?usp=sharing)
 
