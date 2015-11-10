@@ -222,7 +222,7 @@ En general, a nosotros el tiempo de corrección de defectos o No Conformidad par
 
 3. **Métricas de proceso**
 
-* [Analisis ganado ciclo 4](https://docs.google.com/spreadsheets/d/1IMwHfd94kPURtAM-Y_4CIJ_WPvW6r2YKlk2NqanLr5I/edit?usp=sharing)
+* [Analisis valor ganado ciclo 4](https://docs.google.com/spreadsheets/d/1IMwHfd94kPURtAM-Y_4CIJ_WPvW6r2YKlk2NqanLr5I/edit?usp=sharing)
 
 * Productividad del equipo
 
