@@ -180,5 +180,14 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
 1. [**Análisis de evaluaciones de pares**](https://docs.google.com/document/d/1_4CUfzocbwErz_3DdsO497fhYV58WfMlm5vEATRZ3bs/edit?usp=sharing)
 2. **Métricas de producto**
 
+* Reporte de costos de calidad
+Con base en los tiempos que nos llevó corregir errores en de ciclos anteriores con respecto a los tiempos de corregir errores durante etapas tempranas y la prevención del mismo podemos decir lo siguiente:
+	* En caso que los errores sean mínimos, ej. Falta un “;”, el tiempo de corregir el error en etapas tempranas versus corregir el error en etapas más avanzadas o en diferentes ciclos, vemos que es el mismo tiempo. Es decir, el costo de la No conformidad es igual al costo de la conformidad.
+	* Sin embargo, en caso que se prevenga el error, es más costos la No conformidad que la conformidad. En general por cada “;” que estemos pendientes de agregar el tiempo es de milésimas de segundo (ms). Comparada con el tiempo que le lleva la no conformidad del mismo, en este caso el tiempo puede aumentar a unos 10 minutos teniendo en cuenta que se debe localizar el archivo a modificar.
+	* Con respecto a las pruebas, detectamos que es bastante costoso la conformidad del mismo, es decir, los tiempos aumentan e incluso se duplican o triplican al agregar pruebas a cada detalle del código. En este caso, es preferible la no conformidad, en donde se ataquen varias pruebas de códigos atrasados y estables. Este último proceso se puede automatizar.
+En general, a nosotros el tiempo de corrección de defectos o No Conformidad para este ciclo tuvo un costo de alrededor de 40 horas . Sin embargo, con este tiempo aún no se logró mejorar la calidad del código. Se recomienda identificar unas buenas prácticas para todos los miembros del equipo de modo que se reduzca el costo con la conformidad del mismo.
+
+
+
 * [Totalizar líneas de código (Front, Service, Back y pruebas)](https://docs.google.com/spreadsheets/d/1joXWp3k7vkwwvfEreoT11u_YUBL88TdAPK9VOZ8oYrY/edit?usp=sharing)
 * % de requerimientos completados
