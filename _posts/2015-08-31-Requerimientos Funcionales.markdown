@@ -67,7 +67,7 @@ La especificación de cada requerimiento se realizó por medio de mockups. Consu
 
 **R13.** El sistema debe permitir que cada cliente puede visualizar el listado de transacciones realizadas en un periodo de tiempo determinado. _Wilmar_
 
-**R14.** El sistema debe permitir que los clientes puedan calificar el producto que han comprado. La calificación se debe habilitar una semana después de finalizada la transacción. _Viviana_
+**R14.** El sistema debe permitir que los clientes puedan calificar el producto que han comprado. La calificación se debe habilitar una vez el estado de la transacción quede en Completed después de finalizada la transacción. _Viviana_
 
 **R20.** El administrador del MP debe poder revisar el histórico de las ventas realizadas en la plataforma. El historico debe incluir la fecha de relización de la venta, el proveedor y cliente involucrados, el monto pagado y el estado de la venta. _Guillermo_
 
@@ -85,7 +85,8 @@ La especificación de cada requerimiento se realizó por medio de mockups. Consu
 
 ### Otros Requerimientos
 
-**R10.** El sistema cuenta con un foro de discusión abierto entre los usuarios de la plataforma (cliente y proveedores). Cada mensaje debe ser almacenado y posteriormente consultado por los clientes involucrados. Los foros deben tener un titulo, mensajes y participantes de la conversación. _Este requerimiento no se incluyó en el ciclo 4, dado que nos centramos en resolver usabilidad y deuda técnica (99 y 100)_
+**R10.** El sistema cuenta con un foro de discusión abierto entre los usuarios de la plataforma (cliente y proveedores). Cada mensaje debe ser almacenado y posteriormente consultado por los clientes involucrados. Los foros deben tener un titulo, mensajes y participantes de la conversación. 
+_Este requerimiento no se incluyó en el ciclo 4, dado que nos centramos en resolver usabilidad y deuda técnica (99 y 100)_
 
 ### Chequeo de Requerimientos
 *	[Archivo de Chequeo](https://docs.google.com/spreadsheets/d/1gbqvh-xTR9Dhh9Hh1EkAM7dDza2q9yeNAdvAw7Zd8qU/edit?usp=sharing)
