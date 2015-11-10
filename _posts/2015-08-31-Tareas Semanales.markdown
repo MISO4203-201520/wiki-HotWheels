@@ -166,3 +166,4 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
 
 *  [Estimación de Tamaño y Esfuerzo](https://docs.google.com/spreadsheets/d/1tWjSqYlVkoIaf0q8_vQTk5HoAzJyClC7EeRfPZfYB14/edit?usp=sharing)
 *  [Milestones por semana](https://docs.google.com/spreadsheets/d/1IMwHfd94kPURtAM-Y_4CIJ_WPvW6r2YKlk2NqanLr5I/edit?usp=sharing)
+*  [Requerimientos]({{ site.url }}{{site.baseurl}}/posts/2015/08/31/Requerimientos%20Funcionales.html)

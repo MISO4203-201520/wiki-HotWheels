@@ -67,17 +67,25 @@ La especificación de cada requerimiento se realizó por medio de mockups. Consu
 
 **R10.** El sistema cuenta con un foro de discusión abierto entre los usuarios de la plataforma (cliente y proveedores). Cada mensaje debe ser almacenado y posteriormente consultado por los clientes involucrados. Los foros deben tener un titulo, mensajes y participantes de la conversación.
 
-**R13.** El sistema debe permitir que cada cliente puede visualizar el listado de transacciones realizadas en un periodo de tiempo determinado.
+**R13.** El sistema debe permitir que cada cliente puede visualizar el listado de transacciones realizadas en un periodo de tiempo determinado. _Wilmar_
 
-**R14.** El sistema debe permitir que los clientes puedan calificar el producto que han comprado. La calificación se debe habilitar una semana después de finalizada la transacción.
+**R14.** El sistema debe permitir que los clientes puedan calificar el producto que han comprado. La calificación se debe habilitar una semana después de finalizada la transacción. _Viviana_
 
-**R20.** El administrador del MP debe poder revisar el histórico de las ventas realizadas en la plataforma. El historico debe incluir la fecha de relización de la venta, el proveedor y cliente involucrados, el monto pagado y el estado de la venta.
+**R20.** El administrador del MP debe poder revisar el histórico de las ventas realizadas en la plataforma. El historico debe incluir la fecha de relización de la venta, el proveedor y cliente involucrados, el monto pagado y el estado de la venta. _Guillermo_
 
-**R21.** EL sistema debe permitir a los usuarios ver la calificacion de los compradores, al lado de su nombre en la aplicacion, como un numero de 0 a 5 (mayor es mejor). Con un decimal. Calculado en el promedio de calificaciones recibidas.
+**R21.** EL sistema debe permitir a los usuarios ver la calificacion de los compradores, al lado de su nombre en la aplicacion, como un numero de 0 a 5 (mayor es mejor). Con un decimal. Calculado en el promedio de calificaciones recibidas. _Viviana_
 
 #### Cambios incluídos
 
-**R07.** El sistema debe proveer una galeria virtual a cada proveedor que incluya para los usuarios: diferentes criterios de clasificación de los vehiculos para encontrarlos. Entre los criterios solicitados se espera clasificación por modelo, por marca, por ciudad de venta y rango de precios.  _Cambio:_ La galería debe de disponer de varias imagenes y/o videos para cada vehículo.
+**R07.** El sistema debe proveer una galeria virtual a cada proveedor que incluya para los usuarios: diferentes criterios de clasificación de los vehiculos para encontrarlos. Entre los criterios solicitados se espera clasificación por modelo, por marca, por ciudad de venta y rango de precios.  _Cambio:_ La galería debe de disponer de varias imagenes y/o videos para cada vehículo. _Miguel_
+
+#### Deuda Tecnica
+
+**99.** Validar e implementar mejoras a nivel gráfico de tal manera que la navegación a través del sistema sea lo suficientemente intuitiva como para permitir a los usuarios realizar las diferentes actividades ofrecidas por el sistema y así garantizar un incremento en las visitas/ventas del sistema. _Diego_
+
+**100.** Validar e implementar mejoras a nivel de código de tal manera que el mantenimiento de la aplicación sea lo menos traumático posible y así poder soportar los cambios a futuro… se debe disminuir la deuda técnica a por lo menos 3 días teniendo como punto de partida la cifra obtenida el día 29/10/2015 (11 días). _Diego_
+
+
 
 ### Chequeo de Requerimientos
 *	[Archivo de Chequeo](https://docs.google.com/spreadsheets/d/1gbqvh-xTR9Dhh9Hh1EkAM7dDza2q9yeNAdvAw7Zd8qU/edit?usp=sharing)
