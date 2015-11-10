@@ -231,6 +231,7 @@ En general, a nosotros el tiempo de corrección de defectos o No Conformidad par
 4. **Retrospectiva de la estrella de mar**
 
 	* [Individual y Grupal](https://docs.google.com/spreadsheets/d/1tYMKNKHek6Jt3Un-oEl-er-H4PWlcBHXXn5753jI5eo/edit?usp=sharing)
+	* [Reflexión](https://docs.google.com/document/d/1z65MxoLctaMyUXq0Dt-IlQb8f-_w1Z58MDcOP-IuafE/edit?usp=sharing)
 
 5. **Lecciones aprendidas y aspectos por mejorar**
 
