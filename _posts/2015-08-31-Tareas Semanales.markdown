@@ -177,7 +177,7 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
 
 ### Conclusión
 
-1. [**Análisis de evaluaciones de pares**](https://docs.google.com/document/d/1XrhJOlSjr3A4MZhL8RPtVbescqBXF42Kh3OkP87lJNM/edit?usp=sharing)
+1. [**Análisis de evaluaciones de pares**](https://docs.google.com/document/d/1_4CUfzocbwErz_3DdsO497fhYV58WfMlm5vEATRZ3bs/edit?usp=sharing)
 2. **Métricas de producto**
 
 * [Totalizar líneas de código (Front, Service, Back y pruebas)](https://docs.google.com/spreadsheets/d/1joXWp3k7vkwwvfEreoT11u_YUBL88TdAPK9VOZ8oYrY/edit?usp=sharing)
