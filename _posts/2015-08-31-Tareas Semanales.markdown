@@ -191,6 +191,15 @@ En cuanto al avance de los requerimientos totales del ciclo, se ha desarrollado 
 * **Cubrimiento de las pruebas**
 
 
+![cubrimiento proyecto](https://drive.google.com/file/d/0B6VquslgslLmcFY5RDBVWE5zX2s/view?usp=sharing)
+Figura 1. Cubrimiento de pruebas del ciclo 4
+
+![cubrimiento proyecto](https://drive.google.com/file/d/0B6VquslgslLmLVhTcTBnRk1jTVU/view?usp=sharing)
+Figura 2. Cubirimeinto de pruebas en web
+
+![cubrimiento proyecto](https://drive.google.com/file/d/0B6VquslgslLmaUJhcGFlQ2xtZmM/view?usp=sharing)
+Figura 3. Cubirimeinto de pruebas en logica
+
 
 * **Reporte de costos de calidad**
 
