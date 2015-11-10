@@ -167,3 +167,18 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
 *  [Estimación de Tamaño y Esfuerzo](https://docs.google.com/spreadsheets/d/1tWjSqYlVkoIaf0q8_vQTk5HoAzJyClC7EeRfPZfYB14/edit?usp=sharing)
 *  [Milestones por semana](https://docs.google.com/spreadsheets/d/1IMwHfd94kPURtAM-Y_4CIJ_WPvW6r2YKlk2NqanLr5I/edit?usp=sharing)
 *  [Requerimientos]({{ site.url }}{{site.baseurl}}/posts/2015/08/31/Requerimientos%20Funcionales.html)
+*  [Alcance Ciclo 3 y 4]({{ site.url }}{{site.baseurl}}/posts/2015/08/31/Alcance%20Global.html)
+
+### Proceso de Desarrollo
+
+*  [Pruebas automatizadas](http://157.253.238.75:9000/dashboard/index/19062)
+*  [Proceso de control de cambios](https://docs.google.com/spreadsheets/d/17ifCcd6X_F5zkxI_1Y37qqczVfWUs_n0PIMjZh9UoZU/edit#gid=259233180)
+*  [Mockups](https://docs.google.com/document/d/18ZojRT5FtnHAx2zanAIVAVb_fc9wIsw5td7L_caHnI4/edit)
+
+### Conclusión
+
+1. [**Análisis de evaluaciones de pares**](https://docs.google.com/document/d/1XrhJOlSjr3A4MZhL8RPtVbescqBXF42Kh3OkP87lJNM/edit?usp=sharing)
+2. **Métricas de producto**
+
+* [Totalizar líneas de código (Front, Service, Back y pruebas)](https://docs.google.com/spreadsheets/d/1joXWp3k7vkwwvfEreoT11u_YUBL88TdAPK9VOZ8oYrY/edit?usp=sharing)
+* % de requerimientos completados
