@@ -66,3 +66,5 @@ categories: posts
 ### Ciclo 4 - Objetivos, metricas y evaluación
 
 ![Vista despliegue]({{ site.url }}{{site.baseurl}}/assets/ciclo4/objetivos.png)
+
+La evaluación de los objetivos para este ciclo la puede encontrar [AQUÍ](https://docs.google.com/spreadsheets/d/1DxQa5BZt3rFQ9emS1Uk1mq7hMjLUazViDUQwZAvbt2U/edit?usp=sharing).
