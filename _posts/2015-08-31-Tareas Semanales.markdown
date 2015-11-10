@@ -180,6 +180,13 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
 1. [**Análisis de evaluaciones de pares**](https://docs.google.com/document/d/1_4CUfzocbwErz_3DdsO497fhYV58WfMlm5vEATRZ3bs/edit?usp=sharing)
 2. **Métricas de producto**
 
+* **Totalizar las líneas de código**
+
+* **Porcentaje de requerimientos completos**
+En el ciclo 4 se plantearon 4 requerimiento por desarrollar,1 cambios y desarrollo de deuda técnica y usabilidad, de los cuales **satisfactoriamente se implementaron y completaron el 100 %** de estos. Sin embargo, cabe resaltar que de los requerimientos implementados no fue posible realizar pruebas tanto de servicio como funcionales.  
+Igualmente, no se agregaron pruebas de lógica sobre requerimientos de los ciclos 1 y 2. Lo anterior, debido a que los requerimientos nos llevaron más tiempo del esperado. Igualmente, no hubó tanto compromiso de lso integrantes como en ciclos anteriores.
+En cuanto al avance de los requerimientos totales del ciclo, se ha desarrollado el 95.65 % de los requerimientos planteados en la aplicación mpUsedVehcles.
+
 * **Reporte de costos de calidad**
 
 Con base en los tiempos que nos llevó corregir errores en de ciclos anteriores con respecto a los tiempos de corregir errores durante etapas tempranas y la prevención del mismo podemos decir lo siguiente:
