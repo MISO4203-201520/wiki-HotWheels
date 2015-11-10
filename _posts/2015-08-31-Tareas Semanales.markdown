@@ -203,5 +203,5 @@ Con base en los tiempos que nos llevó corregir errores en de ciclos anteriores 
 	* Con respecto a las pruebas, detectamos que es bastante costoso la conformidad del mismo, es decir, los tiempos aumentan e incluso se duplican o triplican al agregar pruebas a cada detalle del código. En este caso, es preferible la no conformidad, en donde se ataquen varias pruebas de códigos atrasados y estables. Este último proceso se puede automatizar.
 En general, a nosotros el tiempo de corrección de defectos o No Conformidad para este ciclo tuvo un costo de alrededor de 40 horas . Sin embargo, con este tiempo aún no se logró mejorar la calidad del código. Se recomienda identificar unas buenas prácticas para todos los miembros del equipo de modo que se reduzca el costo con la conformidad del mismo.
 
-
+* [Reporte de Deuda Técnica](https://docs.google.com/document/d/1o-46114uP65nyw1YL9yC19LjF06rr0f6GKQej0BePTE/edit?usp=sharing)
 
