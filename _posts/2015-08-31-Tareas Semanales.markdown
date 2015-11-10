@@ -239,3 +239,6 @@ En general, a nosotros el tiempo de corrección de defectos o No Conformidad par
 5. **Lecciones aprendidas y aspectos por mejorar**
 
 * [Lecciones aprendidas y apesctos de mejora](https://docs.google.com/document/d/1fTliO0M1MosnXuQkzKu92CuSidkn77xBmGF1wwikHDc/edit?usp=sharing)
+
+*  [Presentación](https://drive.google.com/file/d/0B86H59_O12Mcc2Q5aDBCTlloLVE/view?usp=sharing)
+
