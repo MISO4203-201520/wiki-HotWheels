@@ -181,6 +181,7 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
 2. **Métricas de producto**
 
 * Reporte de costos de calidad
+
 Con base en los tiempos que nos llevó corregir errores en de ciclos anteriores con respecto a los tiempos de corregir errores durante etapas tempranas y la prevención del mismo podemos decir lo siguiente:
 	* En caso que los errores sean mínimos, ej. Falta un “;”, el tiempo de corregir el error en etapas tempranas versus corregir el error en etapas más avanzadas o en diferentes ciclos, vemos que es el mismo tiempo. Es decir, el costo de la No conformidad es igual al costo de la conformidad.
 	* Sin embargo, en caso que se prevenga el error, es más costos la No conformidad que la conformidad. En general por cada “;” que estemos pendientes de agregar el tiempo es de milésimas de segundo (ms). Comparada con el tiempo que le lleva la no conformidad del mismo, en este caso el tiempo puede aumentar a unos 10 minutos teniendo en cuenta que se debe localizar el archivo a modificar.
