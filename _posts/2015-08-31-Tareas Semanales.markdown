@@ -191,15 +191,15 @@ En cuanto al avance de los requerimientos totales del ciclo, se ha desarrollado 
 * **Cubrimiento de las pruebas**
 
 
-![cubrimiento proyecto](https://www.dropbox.com/s/8h3zsw8jj6jz5dr/Pruebasciclo4.PNG?dl=0)
+![cubrimiento proyecto](https://www.dropbox.com/s/8h3zsw8jj6jz5dr/Pruebasciclo4.PNG)
 Figura 1. Cubrimiento de pruebas del ciclo 4
 
 Por problemas de organización no fue posible aumentar considerablemente el cubrimiento de las pruebas. Por otro lado, no fue posible utilizar la automatización de las pruebas de lógica, persistencia y servicios, pues en nuestro caso al implementarlas nos salían varios errores en la compilación en Travis. Por lo anterior, fue necesario continuar con las pruebas manuales. Otro aspecto que incluyó en las pruebas fue que no se asignaron puntualmente tareas de pruebas sobre los componentes desarrollados en ciclos anteriores. Para una próxima oportunidad se recomienda asignar no solo nuevos requerimientos sino deuda técnica a todos los integrantes del equipo.
 
-![cubrimiento proyecto](https://www.dropbox.com/s/7o7g3uq62jlt0ec/Pruebasciclo4_web.PNG?dl=0)
+![cubrimiento proyecto](https://www.dropbox.com/s/7o7g3uq62jlt0ec/Pruebasciclo4_web.PNG)
 Figura 2. Cubirimeinto de pruebas en web
 
-![cubrimiento proyecto](https://www.dropbox.com/s/wqzdd5f1p6z98af/Pruebasciclo4_logica.PNG?dl=0)
+![cubrimiento proyecto](https://www.dropbox.com/s/wqzdd5f1p6z98af/Pruebasciclo4_logica.PNG)
 Figura 3. Cubirimeinto de pruebas en logica
 
 
