@@ -65,8 +65,6 @@ La especificación de cada requerimiento se realizó por medio de mockups. Consu
 
 ### Ciclo 4
 
-**R10.** El sistema cuenta con un foro de discusión abierto entre los usuarios de la plataforma (cliente y proveedores). Cada mensaje debe ser almacenado y posteriormente consultado por los clientes involucrados. Los foros deben tener un titulo, mensajes y participantes de la conversación.
-
 **R13.** El sistema debe permitir que cada cliente puede visualizar el listado de transacciones realizadas en un periodo de tiempo determinado. _Wilmar_
 
 **R14.** El sistema debe permitir que los clientes puedan calificar el producto que han comprado. La calificación se debe habilitar una semana después de finalizada la transacción. _Viviana_
@@ -85,7 +83,9 @@ La especificación de cada requerimiento se realizó por medio de mockups. Consu
 
 **100.** Validar e implementar mejoras a nivel de código de tal manera que el mantenimiento de la aplicación sea lo menos traumático posible y así poder soportar los cambios a futuro… se debe disminuir la deuda técnica a por lo menos 3 días teniendo como punto de partida la cifra obtenida el día 29/10/2015 (11 días). _Diego_
 
+### Otros Requerimientos
 
+**R10.** El sistema cuenta con un foro de discusión abierto entre los usuarios de la plataforma (cliente y proveedores). Cada mensaje debe ser almacenado y posteriormente consultado por los clientes involucrados. Los foros deben tener un titulo, mensajes y participantes de la conversación. _Este requerimiento no se incluyó en el ciclo 4, dado que nos centramos en resolver usabilidad y deuda técnica (99 y 100)_
 
 ### Chequeo de Requerimientos
 *	[Archivo de Chequeo](https://docs.google.com/spreadsheets/d/1gbqvh-xTR9Dhh9Hh1EkAM7dDza2q9yeNAdvAw7Zd8qU/edit?usp=sharing)
