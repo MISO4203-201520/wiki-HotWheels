@@ -70,7 +70,7 @@ Igualmente cualquier miembro del grupo tendrá la responsabilidad de desarrollar
 
 **Líder de Soporte** – Diego Agudelo, Deberá estar atento al manejo de las herramientas utilizadas por el equipo a lo largo del desarrollo del proyecto. Adicionalmente deberá estar pendiente en caso de dudas sobre las mismas para dar soporte siempre que sea necesario.
 
-**Líder de Desarrollo* – Wilmar Funquen
+**Líder de Desarrollo** – Wilmar Fuquen,  liderar los procesos de desarrollo del producto, fomentar el uso de estándares de calidad y generación de pruebas unitarias y funcionales que garanticen un producto de buena calidad. Proveer herramientas que faciliten las estadísticas del desarrollo entregado.
 
 **Líder de Calidad** – Miguel Olivares, velar por calidad del producto entregado al final del ciclo. Para ello, el líder de calidad deberá identificar un plan de calidad que incluya estándares de entrega. Para esto es necesario hacer seguimiento a la planeación, desarrollo y documentación de las Diferentes pruebas(Logica, Persistencia, Servicios, Selenium), de tal manera que se logre como mínimo un 50% de cobertura, asegurando que todos los miembros del equipo conozcan y apliquen el mismo plan de calidad. 
 
