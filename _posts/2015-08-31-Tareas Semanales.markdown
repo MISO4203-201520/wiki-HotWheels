@@ -180,7 +180,7 @@ Pese al porcentaje obtenido, vemos una oportunidad y avance en las pruebas y cal
 1. [**Análisis de evaluaciones de pares**](https://docs.google.com/document/d/1_4CUfzocbwErz_3DdsO497fhYV58WfMlm5vEATRZ3bs/edit?usp=sharing)
 2. **Métricas de producto**
 
-* Reporte de costos de calidad
+* **Reporte de costos de calidad**
 
 Con base en los tiempos que nos llevó corregir errores en de ciclos anteriores con respecto a los tiempos de corregir errores durante etapas tempranas y la prevención del mismo podemos decir lo siguiente:
 	* En caso que los errores sean mínimos, ej. Falta un “;”, el tiempo de corregir el error en etapas tempranas versus corregir el error en etapas más avanzadas o en diferentes ciclos, vemos que es el mismo tiempo. Es decir, el costo de la No conformidad es igual al costo de la conformidad.
