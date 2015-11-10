@@ -217,7 +217,7 @@ En general, a nosotros el tiempo de corrección de defectos o No Conformidad par
 * [Reporte de Deuda Técnica](https://docs.google.com/document/d/1o-46114uP65nyw1YL9yC19LjF06rr0f6GKQej0BePTE/edit?usp=sharing)
  
 
-2. **Métricas de proceso**
+3. **Métricas de proceso**
 
 * [Analisis ganado ciclo 4](https://docs.google.com/spreadsheets/d/1IMwHfd94kPURtAM-Y_4CIJ_WPvW6r2YKlk2NqanLr5I/edit?usp=sharing)
 
@@ -228,4 +228,8 @@ En general, a nosotros el tiempo de corrección de defectos o No Conformidad par
 
 	Finalmente, se obtuvo un esfuerzo total de 154.5 horas, es decir se obtuvo un error de estimación del 3.13 %. Cabe destacar que no fue posible culminar las tareas de pruebas sobre los nuevos requerimientos. Adicionalmente el tiempo estimado era mucho mayor al esperado (9 horas por miembro cada semana). Igualmente, faltaron varios tiempos que no se llenaron en youtrack con respecto a tareas de proceso.
 
+4. **Retrospectiva de la estrella de mar**
 
+	* [Individual](https://docs.google.com/spreadsheets/d/1tYMKNKHek6Jt3Un-oEl-er-H4PWlcBHXXn5753jI5eo/edit?usp=sharing)
+	* Grupal
+	![Estrella de Mar]({{ site.url }}{{site.baseurl}}/assets/ciclo3/EstrellaMar.png)
