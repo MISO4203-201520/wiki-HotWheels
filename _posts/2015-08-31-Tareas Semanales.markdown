@@ -215,4 +215,17 @@ Con base en los tiempos que nos llevó corregir errores en de ciclos anteriores 
 En general, a nosotros el tiempo de corrección de defectos o No Conformidad para este ciclo tuvo un costo de alrededor de 40 horas .Sin embargo, con este tiempo aún no se logró mejorar la calidad del código. Se recomienda identificar unas buenas prácticas para todos los miembros del equipo de modo que se reduzca el costo con la conformidad del mismo.
 
 * [Reporte de Deuda Técnica](https://docs.google.com/document/d/1o-46114uP65nyw1YL9yC19LjF06rr0f6GKQej0BePTE/edit?usp=sharing)
+ 
+
+2. **Métricas de proceso**
+
+* [Analisis ganado ciclo 4](https://docs.google.com/spreadsheets/d/1IMwHfd94kPURtAM-Y_4CIJ_WPvW6r2YKlk2NqanLr5I/edit?usp=sharing)
+
+* Productividad del equipo
+
+	No fue posible obtener el 100 % del valor ganado al finalizar el ciclo dado que se esperaba cumplir con las pruebas de Lógica, Servicios y Funcionalidad en todos los requerimientos y cambios. En este caso no se desarrollaron los requerimientos con tiempo, por lo cual no fue posible emplear tiempo para las pruebas, en especial de servicio y funcionalidad. 
+	Con respecto al valor ganado, este fue al finalizar el ciclo de 87.62 %, no hubo un desarrollo incremental adecuado de semana a semana. En este caso para la semana 2 tan solo se tiene un valor ganado de 34.27 %.
+
+	Finalmente, se obtuvo un esfuerzo total de 154.5 horas, es decir se obtuvo un error de estimación del 3.13 %. Cabe destacar que no fue posible culminar las tareas de pruebas sobre los nuevos requerimientos. Adicionalmente el tiempo estimado era mucho mayor al esperado (9 horas por miembro cada semana). Igualmente, faltaron varios tiempos que no se llenaron en youtrack con respecto a tareas de proceso.
+
 
